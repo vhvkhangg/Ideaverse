@@ -1,0 +1,243 @@
+%% Begin Waypoint %%
+- **Cốt Truyện**
+	- [[CỐT TRUYỆN]]
+- **Danh Mục**
+	- **Chủng Tộc**
+		- **Nhân Vật Chính**
+			- [[Chủng Tộc1]]
+	- **Công Pháp**
+		- **Nhân Vật Chính**
+			- [[Hô Hấp Pháp]]
+			- [[Luyện Hồn Pháp]]
+			- [[Luyện Khí Pháp]]
+			- [[Luyện Thể Pháp]]
+	- **Huyết Mạch**
+		- **Nhân Vật Chính**
+			- **Hạch Tâm**
+				- [[Huyết mạch 2]]
+				- [[Huyết Mạch1]]
+			- [[Huyết Mạch Bản Mệnh]]
+			- [[HUYẾT MẠCH]]
+	- **Kiến Thức**
+		- **Nhân Vật Chính**
+			- **Luyện Dược Học**
+				- [[Luyện Dược Học1]]
+				- [[Thảo Dược Học]]
+			- [[Khôi Lỗi Học]]
+			- [[Luyện Khí Học]]
+			- [[Phù Văn Học]]
+			- [[Trận Pháp Học]]
+	- **Kỹ Năng**
+		- **Nhân Vật Chính**
+			- **Chung Kết**
+				- **Đấu Tuyệt Giả**
+					- [[Pháp Thiên Tượng Địa]]
+				- [[CHUNG KẾT]]
+			- **Hạch Tâm**
+				- [[Nguyên Hoá Vạn Pháp]]
+				- [[Vạn Tượng Nguyên Hạch]]
+			- **Nghề Nghiệp**
+				- **Huỷ Diệt Giả**
+					- [[Ma Ảnh Nhận]]
+					- [[Tai Kiếp Chi Thủ]]
+				- **Phòng Vệ Giả**
+					- [[Cửu Trọng Giới Bích]]
+				- **Đấu Tuyệt Giả**
+					- [[Ngã Đao Thuẫn]]
+			- **Thông Dụng**
+				- [[Nhanh Nhẹn Huấn Luyện]]
+				- [[Sức Mạnh Huấn Luyện]]
+				- [[Tham Lam Chi Thủ]]
+				- [[Thể Chất Huấn Luyện]]
+				- [[Tinh Thần Huấn Luyện]]
+				- [[Trộm Thần Chi Thủ]]
+			- [[Kỹ Năng Bản Mệnh]]
+			- [[Ý TƯỞNG KỸ NĂNG - NHÂN VẬT CHÍNH]]
+	- **Nghề Nghiệp**
+		- **Nhân Vật Chính**
+			- **Bản Mệnh**
+				- [[Vạn Tượng Giả]]
+			- **Hạch Tâm**
+				- [[Huỷ Diệt Giả]]
+				- [[Mệnh Vận Giả]]
+				- [[Phòng Vệ Giả]]
+				- [[Sáng Tạo Giả]]
+				- [[Tai Ương Giả]]
+				- [[Thánh Tâm Giả]]
+				- [[Thông Tuệ Giả]]
+				- [[Thống Ngự Giả]]
+				- [[Đấu Tuyệt Giả]]
+	- **Sủng Thú**
+		- **Nhân Vật Chính**
+			- **Bản Mệnh**
+				- [[Vạn Tượng Giới Luân]]
+			- **Thường**
+				- [[Behemoth]]
+				- [[Bạch Tuộc]]
+				- [[Bọ Hung]]
+				- [[Bọ Ngựa]]
+				- [[Cây]]
+				- [[Côn Bằng]]
+				- [[Cú Mèo]]
+				- [[Cơ Giới]]
+				- [[Hồ Ly]]
+				- [[Khô Lâu]]
+				- [[Loan]]
+				- [[Long]]
+				- [[Lộc]]
+				- [[Nghê]]
+				- [[Nhạn]]
+				- [[Nhện]]
+				- [[Phượng Hoàng]]
+				- [[Quy]]
+				- [[Quạ]]
+				- [[Rắn Nhiều Đầu]]
+				- [[Sao Năm Cánh]]
+				- [[Sen]]
+				- [[Sư Ngao]]
+				- [[Sứa]]
+				- [[Thái Thản]]
+				- [[Thú]]
+				- [[Tê Giác]]
+				- [[Yêu Tinh]]
+			- **Đặc Thù**
+				- [[Cát]]
+				- [[Thánh Linh]]
+				- [[Trùng Sào]]
+	- **Thiên Phú**
+		- **Nhân Vật Chính**
+			- [[Sâm La Vạn Tượng]]
+			- [[Thập Trọng Linh Phách]]
+	- **Thể Chất & Thần Hồn**
+		- **Nhân Vật Chính**
+			- [[Cốt]]
+			- [[Da Gân Cơ Nhục]]
+			- [[Huyết]]
+			- [[Linh Căn]]
+			- [[Linh Tướng]]
+			- [[Lục Phủ Ngũ Tạng]]
+			- [[Mắt]]
+			- [[Não]]
+			- [[THỂ CHẤT TỔNG QUAN - NHÂN VẬT CHÍNH]]
+			- [[Tế Bào]]
+			- [[Tứ Chi]]
+			- [[Vĩnh Hằng Hỗn Nguyên Chu Thiên Tinh Thần Thể]]
+	- **Trang Bị**
+		- **Nhân Vật Chính**
+			- **Bản Mệnh**
+				- **Giáp**
+					- [[Giày]]
+					- [[Găng Tay]]
+					- [[Mũ Giáp]]
+					- [[Quần]]
+					- [[Áo Giáp]]
+					- [[Đai Lưng]]
+				- **Trang Sức**
+					- **Giới Chỉ**
+						- [[Huy Hoàng]]
+						- [[Hư Không]]
+						- [[Luyện Ngục]]
+						- [[Nguyệt Diệu]]
+						- [[Nhật Diệu]]
+						- [[Quần Tinh]]
+						- [[Thiên Khuyết]]
+						- [[Thương Khung]]
+						- [[Thẩm Phán]]
+						- [[Tài Quyết]]
+						- [[Vạn Tượng]]
+					- [[Bông Tai]]
+					- [[Dây Chuyền]]
+				- **Vũ Khí**
+					- [[Luyện Ngục Kích (Khải Linh)]]
+					- [[Đao 1]]
+					- [[Đao 2]]
+				- **Đặc Thù**
+					- [[Mặt Nạ]]
+					- [[Vạn Tượng Lập Phương]]
+			- [[Sơn Hà Xã Tắc Đồ]]
+	- [[DANH MỤC]]
+- **Hệ Thống**
+	- **Chủng Tộc**
+		- [[HỆ THỐNG CHỦNG TỘC]]
+	- **Công Pháp**
+		- [[HỆ THỐNG CÔNG PHÁP]]
+	- **Cảnh Giới**
+		- [[HỆ THỐNG CẢNH GIỚI]]
+	- **Huyết Mạch**
+		- [[HỆ THỐNG HUYẾT MẠCH]]
+	- **Kiến Thức**
+		- [[HỆ THỐNG KIẾN THỨC]]
+	- **Kỹ Năng**
+		- [[HỆ THỐNG KỸ NĂNG]]
+	- **Nghề Nghiệp**
+		- [[HỆ THỐNG NGHỀ NGHIỆP]]
+	- **Sủng Thú**
+		- [[HỆ THỐNG SỦNG THÚ]]
+	- **Thiên Phú**
+		- [[HỆ THỐNG THIÊN PHÚ]]
+	- **Thuộc Tính & Chỉ Số**
+		- **Thuộc Tính**
+			- **Thường**
+				- [[Khéo Léo]]
+				- [[Nhanh Nhẹn]]
+				- [[Sức Mạnh]]
+				- [[Thể Chất]]
+				- [[Tinh Thần]]
+				- [[Trí Tuệ]]
+			- **Đặc Biệt**
+				- [[Thống Soái]]
+				- [[Vận Khí]]
+		- [[HỆ THỐNG THUỘC TÍNH & CHỈ SỐ]]
+	- **Thể Chất & Thần Hồn**
+		- [[HỆ THỐNG THỂ CHẤT & THẦN HỒN]]
+	- **Trang Bị**
+		- [[HỆ THỐNG TRANG BỊ]]
+	- **Vật Phẩm**
+		- [[HỆ THỐNG VẬT PHẨM]]
+	- [[HỆ THỐNG THIẾT LẬP]]
+	- [[HỆ THỐNG]]
+- **Lãnh Địa**
+	- **Anh Hùng**
+		- [[ANH HÙNG]]
+		- [[Lãnh Địa/Anh Hùng/Shalltear Bloodfallen|Shalltear Bloodfallen]]
+	- **Công Trình Kiến Trúc**
+		- **Bản Mệnh**
+			- [[Lĩnh Chủ Chi Tâm]]
+		- **Hạch Tâm**
+			- [[Linh Mạch]]
+		- **Sản Xuất**
+			- [[Linh Tuyền]]
+			- [[Linh Điền]]
+	- **Quản Lý**
+		- **Quốc Hội**
+			- **Chính Phủ**
+				- **Cơ Quan (Ngang Bộ)**
+					- [[HỆ THỐNG PHỦ TỔNG QUẢN NỘI CÁC]]
+				- [[HỆ THỐNG CHÍNH PHỦ]]
+		- [[HỆ THỐNG QUẢN LÝ]]
+	- [[LÃNH ĐỊA]]
+	- [[Lãnh Địa/Sơ Đồ Lãnh Địa.canvas|Sơ Đồ Lãnh Địa.canvas]]
+- **Nhân Vật**
+	- **Nhân Vật Chính**
+		- [[NHÂN VẬT CHÍNH]]
+	- **Phó Bản**
+		- **Overlord**
+			- [[Nhân Vật/Phó Bản/Overlord/Shalltear Bloodfallen|Shalltear Bloodfallen]]
+	- **Phản Diện**
+		- **Quái Vật**
+			- [[QUÁI VẬT]]
+	- [[NHÂN VẬT]]
+- **Thế Giới**
+	- **Phó Bản**
+		- **Overlord**
+			- [[OVERLORD]]
+		- [[PHÓ BẢN]]
+	- **Thế Giới Quan**
+		- [[THẾ GIỚI QUAN]]
+	- **Thế Lực**
+		- [[THẾ LỰC]]
+	- **Địa Lý**
+		- [[ĐỊA LÝ]]
+	- [[THẾ GIỚI]]
+
+%% End Waypoint %%

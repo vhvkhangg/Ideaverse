@@ -1,0 +1,13 @@
+# Operating-system noise
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Obsidian machine/session-local state
+.obsidian/workspace*.json
+.trash/
+
+# Temporary files
+*.tmp
+*.temp
+~$*
