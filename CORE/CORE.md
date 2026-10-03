@@ -37,13 +37,13 @@
 				- [[Nguyên Hoá Vạn Pháp]]
 				- [[Vạn Tượng Nguyên Hạch]]
 			- **Nghề Nghiệp**
+				- **Đấu Tuyệt Giả**
+					- [[Ngã Đao Thuẫn]]
 				- **Huỷ Diệt Giả**
 					- [[Ma Ảnh Nhận]]
 					- [[Tai Kiếp Chi Thủ]]
 				- **Phòng Vệ Giả**
 					- [[Cửu Trọng Giới Bích]]
-				- **Đấu Tuyệt Giả**
-					- [[Ngã Đao Thuẫn]]
 			- **Thông Dụng**
 				- [[Nhanh Nhẹn Huấn Luyện]]
 				- [[Sức Mạnh Huấn Luyện]]
@@ -58,56 +58,52 @@
 			- **Bản Mệnh**
 				- [[Vạn Tượng Giả]]
 			- **Hạch Tâm**
+				- [[Đấu Tuyệt Giả]]
 				- [[Huỷ Diệt Giả]]
 				- [[Mệnh Vận Giả]]
 				- [[Phòng Vệ Giả]]
 				- [[Sáng Tạo Giả]]
 				- [[Tai Ương Giả]]
 				- [[Thánh Tâm Giả]]
-				- [[Thông Tuệ Giả]]
 				- [[Thống Ngự Giả]]
-				- [[Đấu Tuyệt Giả]]
+				- [[Thông Tuệ Giả]]
 	- **Sủng Thú**
 		- **Nhân Vật Chính**
 			- **Bản Mệnh**
 				- [[Vạn Tượng Giới Luân]]
+			- **Đặc Thù**
+				- [[Cát]]
+				- [[Thánh Linh]]
+				- [[Trùng Sào]]
 			- **Thường**
-				- [[Behemoth]]
 				- [[Bạch Tuộc]]
+				- [[Behemoth]]
 				- [[Bọ Hung]]
 				- [[Bọ Ngựa]]
 				- [[Cây]]
+				- [[Cơ Giới]]
 				- [[Côn Bằng]]
 				- [[Cú Mèo]]
-				- [[Cơ Giới]]
 				- [[Hồ Ly]]
 				- [[Khô Lâu]]
 				- [[Loan]]
-				- [[Long]]
 				- [[Lộc]]
+				- [[Long]]
 				- [[Nghê]]
 				- [[Nhạn]]
 				- [[Nhện]]
 				- [[Phượng Hoàng]]
-				- [[Quy]]
 				- [[Quạ]]
+				- [[Quy]]
 				- [[Rắn Nhiều Đầu]]
 				- [[Sao Năm Cánh]]
 				- [[Sen]]
 				- [[Sư Ngao]]
 				- [[Sứa]]
+				- [[Tê Giác]]
 				- [[Thái Thản]]
 				- [[Thú]]
-				- [[Tê Giác]]
 				- [[Yêu Tinh]]
-			- **Đặc Thù**
-				- [[Cát]]
-				- [[Thánh Linh]]
-				- [[Trùng Sào]]
-	- **Thiên Phú**
-		- **Nhân Vật Chính**
-			- [[Sâm La Vạn Tượng]]
-			- [[Thập Trọng Linh Phách]]
 	- **Thể Chất & Thần Hồn**
 		- **Nhân Vật Chính**
 			- [[Cốt]]
@@ -118,51 +114,55 @@
 			- [[Lục Phủ Ngũ Tạng]]
 			- [[Mắt]]
 			- [[Não]]
-			- [[THỂ CHẤT TỔNG QUAN - NHÂN VẬT CHÍNH]]
 			- [[Tế Bào]]
+			- [[THỂ CHẤT TỔNG QUAN - NHÂN VẬT CHÍNH]]
 			- [[Tứ Chi]]
 			- [[Vĩnh Hằng Hỗn Nguyên Chu Thiên Tinh Thần Thể]]
+	- **Thiên Phú**
+		- **Nhân Vật Chính**
+			- [[Sâm La Vạn Tượng]]
+			- [[Thập Trọng Linh Phách]]
 	- **Trang Bị**
 		- **Nhân Vật Chính**
 			- **Bản Mệnh**
+				- **Đặc Thù**
+					- [[Mặt Nạ]]
+					- [[Vạn Tượng Lập Phương]]
 				- **Giáp**
-					- [[Giày]]
-					- [[Găng Tay]]
-					- [[Mũ Giáp]]
-					- [[Quần]]
 					- [[Áo Giáp]]
 					- [[Đai Lưng]]
+					- [[Găng Tay]]
+					- [[Giày]]
+					- [[Mũ Giáp]]
+					- [[Quần]]
 				- **Trang Sức**
 					- **Giới Chỉ**
-						- [[Huy Hoàng]]
 						- [[Hư Không]]
+						- [[Huy Hoàng]]
 						- [[Luyện Ngục]]
 						- [[Nguyệt Diệu]]
 						- [[Nhật Diệu]]
 						- [[Quần Tinh]]
+						- [[Tài Quyết]]
+						- [[Thẩm Phán]]
 						- [[Thiên Khuyết]]
 						- [[Thương Khung]]
-						- [[Thẩm Phán]]
-						- [[Tài Quyết]]
 						- [[Vạn Tượng]]
 					- [[Bông Tai]]
 					- [[Dây Chuyền]]
 				- **Vũ Khí**
-					- [[Luyện Ngục Kích (Khải Linh)]]
 					- [[Đao 1]]
 					- [[Đao 2]]
-				- **Đặc Thù**
-					- [[Mặt Nạ]]
-					- [[Vạn Tượng Lập Phương]]
+					- [[Luyện Ngục Kích (Khải Linh)]]
 			- [[Sơn Hà Xã Tắc Đồ]]
 	- [[DANH MỤC]]
 - **Hệ Thống**
+	- **Cảnh Giới**
+		- [[HỆ THỐNG CẢNH GIỚI]]
 	- **Chủng Tộc**
 		- [[HỆ THỐNG CHỦNG TỘC]]
 	- **Công Pháp**
 		- [[HỆ THỐNG CÔNG PHÁP]]
-	- **Cảnh Giới**
-		- [[HỆ THỐNG CẢNH GIỚI]]
 	- **Huyết Mạch**
 		- [[HỆ THỐNG HUYẾT MẠCH]]
 	- **Kiến Thức**
@@ -173,10 +173,15 @@
 		- [[HỆ THỐNG NGHỀ NGHIỆP]]
 	- **Sủng Thú**
 		- [[HỆ THỐNG SỦNG THÚ]]
+	- **Thể Chất & Thần Hồn**
+		- [[HỆ THỐNG THỂ CHẤT & THẦN HỒN]]
 	- **Thiên Phú**
 		- [[HỆ THỐNG THIÊN PHÚ]]
 	- **Thuộc Tính & Chỉ Số**
 		- **Thuộc Tính**
+			- **Đặc Biệt**
+				- [[Thống Soái]]
+				- [[Vận Khí]]
 			- **Thường**
 				- [[Khéo Léo]]
 				- [[Nhanh Nhẹn]]
@@ -184,12 +189,7 @@
 				- [[Thể Chất]]
 				- [[Tinh Thần]]
 				- [[Trí Tuệ]]
-			- **Đặc Biệt**
-				- [[Thống Soái]]
-				- [[Vận Khí]]
 		- [[HỆ THỐNG THUỘC TÍNH & CHỈ SỐ]]
-	- **Thể Chất & Thần Hồn**
-		- [[HỆ THỐNG THỂ CHẤT & THẦN HỒN]]
 	- **Trang Bị**
 		- [[HỆ THỐNG TRANG BỊ]]
 	- **Vật Phẩm**
@@ -199,15 +199,15 @@
 - **Lãnh Địa**
 	- **Anh Hùng**
 		- [[ANH HÙNG]]
-		- [[Lãnh Địa/Anh Hùng/Shalltear Bloodfallen|Shalltear Bloodfallen]]
+		- [[Shalltear Bloodfallen]]
 	- **Công Trình Kiến Trúc**
 		- **Bản Mệnh**
 			- [[Lĩnh Chủ Chi Tâm]]
 		- **Hạch Tâm**
 			- [[Linh Mạch]]
 		- **Sản Xuất**
-			- [[Linh Tuyền]]
 			- [[Linh Điền]]
+			- [[Linh Tuyền]]
 	- **Quản Lý**
 		- **Quốc Hội**
 			- **Chính Phủ**
@@ -216,18 +216,19 @@
 				- [[HỆ THỐNG CHÍNH PHỦ]]
 		- [[HỆ THỐNG QUẢN LÝ]]
 	- [[LÃNH ĐỊA]]
-	- [[Lãnh Địa/Sơ Đồ Lãnh Địa.canvas|Sơ Đồ Lãnh Địa.canvas]]
 - **Nhân Vật**
 	- **Nhân Vật Chính**
 		- [[NHÂN VẬT CHÍNH]]
-	- **Phó Bản**
-		- **Overlord**
-			- [[Nhân Vật/Phó Bản/Overlord/Shalltear Bloodfallen|Shalltear Bloodfallen]]
 	- **Phản Diện**
 		- **Quái Vật**
 			- [[QUÁI VẬT]]
+	- **Phó Bản**
+		- **Overlord**
+			- [[Shalltear Bloodfallen]]
 	- [[NHÂN VẬT]]
 - **Thế Giới**
+	- **Địa Lý**
+		- [[ĐỊA LÝ]]
 	- **Phó Bản**
 		- **Overlord**
 			- [[OVERLORD]]
@@ -236,8 +237,6 @@
 		- [[THẾ GIỚI QUAN]]
 	- **Thế Lực**
 		- [[THẾ LỰC]]
-	- **Địa Lý**
-		- [[ĐỊA LÝ]]
 	- [[THẾ GIỚI]]
 
 %% End Waypoint %%

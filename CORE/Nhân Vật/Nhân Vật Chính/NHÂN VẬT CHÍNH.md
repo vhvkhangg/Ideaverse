@@ -2,7 +2,7 @@
 ### 1. Quan Hệ
 
 > [!EXAMPLE]- **Thê Tử**
-> 1. [[Shalltear Bloodfallen]]
+> 1. [[Lãnh Địa/Anh Hùng/Shalltear Bloodfallen|Shalltear Bloodfallen]]
 > 2. [[Khổng Hi Duyệt]]
 
 ### 2. Danh Hiệu
