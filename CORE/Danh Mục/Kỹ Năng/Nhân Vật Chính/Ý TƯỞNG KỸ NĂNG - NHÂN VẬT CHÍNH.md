@@ -1,3 +1,5 @@
+# Ý TƯỞNG KỸ NĂNG - NHÂN VẬT CHÍNH
+
 Chư Nghiệt Phạt Tịnh
 Nguyên Chất Tróc Ra
 Nguyên Tố Hư Không/Vạn Hoá

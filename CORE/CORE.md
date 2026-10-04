@@ -173,12 +173,24 @@
 		- [[HỆ THỐNG NGHỀ NGHIỆP]]
 	- **Sủng Thú**
 		- [[HỆ THỐNG SỦNG THÚ]]
+	- **Tài Nguyên**
+		- [[NĂNG LƯỢNG]]
+		- [[SINH MỆNH LỰC]]
+		- [[TÀI NGUYÊN]]
+		- [[THỂ LỰC]]
+		- [[TINH LỰC]]
 	- **Thể Chất & Thần Hồn**
 		- [[HỆ THỐNG THỂ CHẤT & THẦN HỒN]]
 	- **Thiên Phú**
 		- [[HỆ THỐNG THIÊN PHÚ]]
 	- **Thuộc Tính & Chỉ Số**
 		- **Chỉ Số**
+			- **Cơ Sở**
+				- [[CHỈ SỐ CƠ SỞ]]
+			- **Thượng Cấp**
+				- [[CHỈ SỐ THƯỢNG CẤP]]
+			- **Trung Cấp**
+				- [[CHỈ SỐ TRUNG CẤP]]
 			- [[CHỈ SỐ]]
 		- **Thuộc Tính**
 			- **Cơ Bản**
@@ -201,7 +213,7 @@
 - **Lãnh Địa**
 	- **Anh Hùng**
 		- [[ANH HÙNG]]
-		- [[Shalltear Bloodfallen]]
+		- [[Lãnh Địa/Anh Hùng/Shalltear Bloodfallen|Shalltear Bloodfallen]]
 	- **Công Trình Kiến Trúc**
 		- **Bản Mệnh**
 			- [[Lĩnh Chủ Chi Tâm]]
@@ -226,7 +238,7 @@
 			- [[QUÁI VẬT]]
 	- **Phó Bản**
 		- **Overlord**
-			- [[Shalltear Bloodfallen]]
+			- [[Nhân Vật/Phó Bản/Overlord/Shalltear Bloodfallen|Shalltear Bloodfallen]]
 	- [[NHÂN VẬT]]
 - **Thế Giới**
 	- **Địa Lý**

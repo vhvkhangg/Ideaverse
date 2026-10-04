@@ -5,6 +5,8 @@ growth-type:
 allow-negative-base:
 allow-negative-effective:
 extraction:
+status: draft
+version:
 tags:
   - ideaverse/system/attribute
 ---
@@ -23,7 +25,7 @@ tags:
 | Phương thức tăng trưởng | |
 | Base có thể âm | |
 | Effective có thể âm | |
-| Chiết xuất theo Chuyển Nghề | |
+| Chiết xuất theo Chuyển | |
 
 ## Bản Chất
 
@@ -35,15 +37,23 @@ tags:
 
 -
 
-## Cơ Chế
+## Thang Giá Trị
 
-### Ảnh Hưởng Trực Tiếp
+- Mốc người thường:
+- Trường hợp chủng tộc đặc biệt:
+- Hard cap: Không, trừ khi note này ghi ngoại lệ.
 
--
+## Base / Effective
 
-### Ảnh Hưởng Gián Tiếp
+- Tăng Base vĩnh viễn:
+- Flat Effective:
+- Percentage Modifier:
+- Quy tắc sàn/dấu:
 
--
+## Quan Hệ Với Chỉ Số/Tài Nguyên
+
+- Các quan hệ thường gặp:
+- Hệ số chuyển đổi: Không dùng conversion toàn cục nếu subsystem/build chưa định nghĩa hệ số riêng.
 
 ## Tăng Trưởng
 
@@ -53,23 +63,14 @@ tags:
 
 -
 
-## Modifier
-
-### Tăng
+## Điểm Thuộc Tính Tự Do
 
 -
 
-### Giảm
+## Chiết Xuất
 
--
-
-## Quan Hệ Với Thuộc Tính Khác
-
--
-
-## Quan Hệ Với Chỉ Số
-
--
+- Có/Không:
+- Quy tắc đặc biệt nếu có:
 
 ## Quy Đổi Giữa Các Hệ Thống
 

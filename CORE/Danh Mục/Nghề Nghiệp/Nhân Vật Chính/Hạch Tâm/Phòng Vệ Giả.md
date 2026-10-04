@@ -1,3 +1,5 @@
+# Phòng Vệ Giả
+
 Phẩm Chất: Tuyệt Cao Vô Thượng
 Giai: Thập Giai 
 
@@ -24,4 +26,4 @@ Lĩnh Vực (Chủ động): Vĩnh Hằng
 		5. Tăng 1.000% chỉ số chuyển đổi Thể Chất.
 		6. 
 		7. 
-		8. 
+		8.

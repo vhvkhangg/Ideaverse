@@ -6,11 +6,12 @@
 | Hệ thống | Trạng thái | Tài liệu |
 |---|---|---|
 | Cấu trúc Vault | **FROZEN** | [[CẤU TRÚC VAULT v1]] |
-| Thuộc Tính | **FROZEN** | [[HỆ THỐNG THUỘC TÍNH v1]] |
-| Chỉ Số | **NOT STARTED** | [[CHỈ SỐ]] chứa bản nháp kế thừa, chưa phải thiết kế chính thức |
-| Nghề Nghiệp | **IN DESIGN** | Đã chốt có 10 Chuyển và liên kết với Chiết Xuất Thuộc Tính; các quy tắc khác chưa freeze |
+| Thuộc Tính | **FROZEN** | [[HỆ THỐNG THUỘC TÍNH v1]] · Source of truth: [[THUỘC TÍNH]] |
+| Chỉ Số | **FROZEN** | [[HỆ THỐNG CHỈ SỐ v1]] · Source of truth: [[CHỈ SỐ]] |
+| Tài Nguyên | **FROZEN** | [[HỆ THỐNG TÀI NGUYÊN v1]] · Source of truth: [[TÀI NGUYÊN]] |
+| Nghề Nghiệp | **IN DESIGN** | Cross-system contract với Thuộc Tính đã freeze: 10 Chuyển, Thí Luyện `×2/×5/×10/×100`, Điểm Thuộc Tính theo bậc hiện tại; các quy tắc Nghề Nghiệp khác chưa freeze |
 | Cảnh Giới | **NOT STARTED** | [[HỆ THỐNG CẢNH GIỚI]] |
-| Kỹ Năng | **NOT STARTED** | [[HỆ THỐNG KỸ NĂNG]] |
+| Kỹ Năng | **IN DESIGN** | Đã chốt ranh giới với Chỉ Số: Độ Thuần Thục → tăng Cấp Kỹ Năng; Cấp Kỹ Năng quyết định progression Thời Gian Thi Triển/Hồi Chiêu và thông số khác; chi tiết chưa freeze |
 | Công Pháp | **NOT STARTED** | [[HỆ THỐNG CÔNG PHÁP]] |
 
 ## Quy Ước Trạng Thái

@@ -5,6 +5,8 @@ growth-type: special
 allow-negative-base: false
 allow-negative-effective: true
 extraction: false
+status: frozen
+version: 1
 tags:
   - ideaverse/system/attribute
 ---
@@ -14,6 +16,16 @@ tags:
 ## Định Nghĩa
 
 > Khả năng lý giải, lĩnh ngộ, suy diễn và chuyển hóa tri thức thành hiểu biết hoặc năng lực thực tế.
+
+## Phân Loại
+
+| Thuộc tính | Giá trị |
+|---|---|
+| Nhóm | Đặc Biệt |
+| Phương thức tăng trưởng | Đặc biệt/hiếm |
+| Base có thể âm | Không |
+| Effective có thể âm | Có |
+| Chiết xuất theo Chuyển | Không |
 
 ## Bản Chất
 
@@ -29,16 +41,47 @@ tags:
 - Cường độ tinh thần — thuộc [[Tinh Thần]].
 - Trí nhớ hoặc IQ nếu các khái niệm đó được mô hình hóa riêng.
 
-## Giá Trị Âm
+## Thang Giá Trị
 
+- `1` là cực hạn tự nhiên của người thường đối với Ngộ Tính.
 - Base luôn `>= 0`.
-- Modifier có thể làm Effective `< 0`.
-- Effective âm biểu thị trạng thái bất lợi vượt qua mốc `0`; **ý nghĩa và hậu quả cụ thể do nguồn modifier hoặc subsystem gây ra nó quy định**, không mặc định thành một cơ chế cố định.
+- Effective có thể `< 0` do modifier.
+- Không có hard cap.
+
+## Base / Effective
+
+- Effective tuân theo `Base → Flat → Percentage Modifier multiplicative` trong [[THUỘC TÍNH#2.2. Base và Effective]].
+- Quy tắc dấu/sàn theo bảng tại [[THUỘC TÍNH#2.3. Quy Tắc Giá Trị Âm]].
+
+## Quan Hệ Với Chỉ Số/Tài Nguyên
+
+Ngộ Tính mặc định không chuyển trực tiếp thành Chỉ Số chiến đấu. Subsystem học tập/lĩnh ngộ/cải tiến dùng nó trong check, hệ số hoặc công thức riêng.
 
 ## Tăng Trưởng
 
-Chỉ tăng bằng phương thức đặc biệt/hiếm. Không nhận tăng trưởng thông thường từ level hoặc Điểm Thuộc Tính Tự Do trừ khi một cơ chế đặc thù ghi rõ ngoại lệ.
+Chỉ thay đổi bằng phương thức đặc biệt/hiếm hoặc mechanic ghi rõ ngoại lệ.
+
+## Suy Giảm
+
+Modifier/debuff có thể làm giảm Effective theo rule chung; mechanic làm thay đổi Base phải ghi rõ.
+
+## Điểm Thuộc Tính Tự Do
+
+Không nhận Điểm Thuộc Tính Tự Do thông thường.
 
 ## Chiết Xuất
 
-Không.
+- Không.
+- Không thêm hậu tố Chuyển `I–X`.
+
+## Quy Đổi Giữa Các Hệ Thống
+
+Power system khác có thể ánh xạ khái niệm tương đương về Ngộ Tính, nhưng subsystem sử dụng nó phải tự định nghĩa check/hệ số cụ thể thay vì dùng conversion chiến đấu toàn cục.
+
+## Trường Hợp Biên
+
+Base không âm; Effective âm biểu thị trạng thái bất lợi vượt qua mốc `0`, hậu quả do mechanic gây ra nó quy định.
+
+## Ví Dụ
+
+Ví dụ một nguyền rủa có thể làm Effective Ngộ Tính âm dù Base vẫn không âm.

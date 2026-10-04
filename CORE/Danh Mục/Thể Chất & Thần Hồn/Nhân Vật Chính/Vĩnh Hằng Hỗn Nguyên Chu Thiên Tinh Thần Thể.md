@@ -1,3 +1,5 @@
+# Vĩnh Hằng Hỗn Nguyên Chu Thiên Tinh Thần Thể
+
 Tên: Vĩnh Hằng Hỗn Nguyên Chu Thiên Tinh Thần Thể
 
 Hiệu Quả

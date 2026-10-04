@@ -15,6 +15,7 @@
 
 - [[HỆ THỐNG CẢNH GIỚI]]
 - [[HỆ THỐNG THUỘC TÍNH & CHỈ SỐ]]
+- [[TÀI NGUYÊN]]
 - [[HỆ THỐNG KỸ NĂNG]]
 - [[HỆ THỐNG CÔNG PHÁP]]
 - [[HỆ THỐNG CHỦNG TỘC]]

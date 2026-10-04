@@ -1,3 +1,5 @@
+# Sâm La Vạn Tượng
+
 Đẳng Cấp: Tuyệt Cao Vô Thượng [Duy Nhất]
 
 Giới thiệu
@@ -18,4 +20,3 @@ Vạn Đạo Quy Nhất
 
 
 Vô Hạn Tiến Hoá
-

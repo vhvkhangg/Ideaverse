@@ -1,3 +1,5 @@
+# Huỷ Diệt Giả
+
 Đặc Tính
 1. Mỗi đánh 1 đòn, áp dụng thêm 9 lần đòn đánh
 2. Mỗi đánh 1 kỹ năng, áp dụng thêm 9 lần kỹ năng

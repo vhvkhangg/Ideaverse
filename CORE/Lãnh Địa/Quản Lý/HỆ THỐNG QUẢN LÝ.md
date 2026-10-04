@@ -1,3 +1,5 @@
+# HỆ THỐNG QUẢN LÝ
+
 ```mermaid
 flowchart LR
 	%% ===== ĐỊNH DẠNG NODE TRUNG TÂM =====

@@ -1,3 +1,5 @@
+# HỆ THỐNG KỸ NĂNG
+
 ## 🌟 HỆ THỐNG PHÂN CẤP PHẨM CHẤT KỸ NĂNG
 
 > [!info] **I. CẤP ĐỘ ĐẶC THÙ**
@@ -48,7 +50,7 @@
 
 > [!danger] **QUYỀN NĂNG CỦA ĐẤNG SÁNG TẠO**
 > <div style="background-color:#09090b; color:#ffffff; padding: 25px; border: 3px solid transparent; border-image: linear-gradient(45deg, #ff0000, #ff7300, #fffb00, #48ff00, #00ffd5, #002bff, #7a00ff, #ff00c8, #ff0000) 1; text-align: center; box-shadow: 0 0 30px rgba(255, 255, 255, 0.1), inset 0 0 20px rgba(0,0,0,0.9);">
-> <span style="font-size: 1.5em; font-weight: bold; letter-spacing: 4px; text-shadow: 3px 3px 6px #ff0000, -3px -3px 6px #00ffd5, 3px -3px 6px #ff00c8, -3px 3px 6px #fffb00;"> 【TUYỆT CAO VÔ THƯỢNG] </span>
+> <span style="font-size: 1.5em; font-weight: bold; letter-spacing: 4px; text-shadow: 3px 3px 6px #ff0000, -3px -3px 6px #00ffd5, 3px -3px 6px #ff00c8, -3px 3px 6px #fffb00;"> 【TUYỆT CAO VÔ THƯỢNG】 </span>
 > <br>
 > <span style="font-size: 0.8em; font-style:italic; opacity: 0.7; color: #e5e7eb;">(Hiệu ứng Cửu Thải Lưu Ly - Sắc màu biến ảo liên tục)</span>
 > <span style="font-size: 1em; font-weight: normal; color: #e2e8f0; display: block; margin-top: 16px; line-height: 1.6; border-top: 1px solid rgba(255,255,255,0.2); padding-top: 16px;">

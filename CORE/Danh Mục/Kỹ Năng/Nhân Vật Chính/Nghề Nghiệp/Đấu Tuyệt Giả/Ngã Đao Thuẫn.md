@@ -1,1 +1,3 @@
+# Ngã Đao Thuẫn
+
 _Phòng ngự_ _lúc_, công_ _sẽ dựa theo_ _50%_ _Tỉ lệ_ _chuyển đổi thành_ _Song Phòng_, _lúc công kích_, _phòng ngự_ _sẽ dựa theo_ _50%_ _Tỉ lệ_ _chuyển đổi thành_ công.

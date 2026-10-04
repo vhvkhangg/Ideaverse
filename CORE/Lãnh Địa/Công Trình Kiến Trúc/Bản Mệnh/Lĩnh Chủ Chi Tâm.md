@@ -1,3 +1,5 @@
+# Lĩnh Chủ Chi Tâm
+
 > 🔙 Quay lại: [[LÃNH ĐỊA]]
 
 ---
@@ -11,7 +13,7 @@
 > | 👥 **Dân Số** | 0 / ∞ |
 > | 📐 **Diện Tích** | 1.000.000 km² |
 >
-> **Quy Tắc Tính Toán**: [[HỆ THỐNG THIẾT LẬP#3. 🏰 LÃNH ĐỊA]]
+> **Quy Tắc Tính Toán**: [[HỆ THỐNG THIẾT LẬP#3. Lãnh Địa]]
 > 
 > **Mô tả:** *Trái tim của lãnh địa, ngưng tụ từ ý chí của vũ trụ và khát vọng của chúng sinh. Mất nó, lãnh địa sụp đổ.*
 

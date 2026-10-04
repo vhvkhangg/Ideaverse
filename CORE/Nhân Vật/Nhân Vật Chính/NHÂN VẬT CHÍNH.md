@@ -1,3 +1,5 @@
+# NHÂN VẬT CHÍNH
+
 ## Hồ Sơ Nhân Vật
 ### 1. Quan Hệ
 
@@ -12,7 +14,7 @@
 
 ### 5. Chủng Tộc
 
-### 6. Chức Nghiệp
+### 6. Nghề Nghiệp
 
 ### 7. Thiên Phú
 
@@ -32,8 +34,3 @@
 ### 14. Công Pháp
 
 ### 15. Trang Bị
-
-
-
-
-

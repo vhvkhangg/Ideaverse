@@ -1,3 +1,5 @@
+# HỆ THỐNG SỦNG THÚ
+
 > [!abstract] **I. TƯ CHẤT (Aptitude)**
 > *(Thước đo giới hạn tiềm năng, trí tuệ và độ hiếm bẩm sinh của chủng tộc)*
 

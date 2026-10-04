@@ -1,3 +1,5 @@
+# Shalltear Bloodfallen
+
 > [!info] Phân biệt nhân vật
 > Đây là **Shalltear Bloodfallen của Lãnh Địa**, một nhân vật riêng của Ideaverse. Không phải [[Nhân Vật/Phó Bản/Overlord/Shalltear Bloodfallen|Shalltear Bloodfallen thuộc phó bản Overlord]]; hai nhân vật chỉ trùng tên.
 

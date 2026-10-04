@@ -1,1 +1,3 @@
+# CHUNG KẾT
+
 Tiêu hao điểm số liên kích để kích hoạt kỹ năng

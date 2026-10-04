@@ -1,6 +1,13 @@
+---
+status: frozen
+version: 1
+system: Cấu Trúc Vault
+---
+
 # CẤU TRÚC VAULT v1
 
-**Status:** FROZEN
+> [!SUCCESS] FROZEN
+> Decision log của cấu trúc Vault v1.
 
 ## Frozen Decisions
 
