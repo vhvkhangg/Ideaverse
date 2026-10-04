@@ -178,17 +178,19 @@
 	- **Thiên Phú**
 		- [[HỆ THỐNG THIÊN PHÚ]]
 	- **Thuộc Tính & Chỉ Số**
+		- **Chỉ Số**
+			- [[CHỈ SỐ]]
 		- **Thuộc Tính**
-			- **Đặc Biệt**
-				- [[Thống Soái]]
-				- [[Vận Khí]]
-			- **Thường**
-				- [[Khéo Léo]]
+			- **Cơ Bản**
 				- [[Nhanh Nhẹn]]
 				- [[Sức Mạnh]]
 				- [[Thể Chất]]
 				- [[Tinh Thần]]
-				- [[Trí Tuệ]]
+			- **Đặc Biệt**
+				- [[Mị Lực]]
+				- [[Ngộ Tính]]
+				- [[Vận Khí]]
+			- [[THUỘC TÍNH]]
 		- [[HỆ THỐNG THUỘC TÍNH & CHỈ SỐ]]
 	- **Trang Bị**
 		- [[HỆ THỐNG TRANG BỊ]]

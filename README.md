@@ -14,6 +14,7 @@ Obsidian vault dùng để xây dựng canon, hệ thống sức mạnh, worldbu
 - `REFERENCE/`: tư liệu tham khảo, không phải canon.
 - `SANDBOX/`: thử nghiệm, nội dung AI hoặc bản nháp chưa được duyệt.
 - `TEMPLATES/`: template dùng để tạo note mới; không phải canon.
+- `DOCS/`: tài liệu thiết kế/meta, trạng thái `FROZEN` và decision log; không phải canon.
 
 ## Quy ước dữ liệu
 
