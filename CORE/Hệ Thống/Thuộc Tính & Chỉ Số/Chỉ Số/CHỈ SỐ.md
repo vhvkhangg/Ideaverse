@@ -630,7 +630,16 @@ Modifier phải ghi rõ loại:
 
 Không dùng `Điểm/%` mơ hồ trên cùng một Chỉ Số.
 
-## 19. Ngoài Phạm Vi v1 / Thiết Kế Tiếp Theo
+## 19. Chuyển Đổi Từ Thuộc Tính — Cross-System Contract v2
+
+Bảng mặc định, các hệ số theo đơn vị và danh sách Chỉ Số **không** được chuyển đổi nằm tại [[THUỘC TÍNH#5. Chuyển Đổi Thuộc Tính → Chỉ Số/Tài Nguyên]] (FROZEN v2).
+
+- Cơ Sở: nhận đóng góp theo từng điểm Thuộc Tính Effective và bảng hệ số; không mặc định chuyển đổi sang hồi phục dạng `% Tối Đa/s`.
+- Trung Cấp: chỉ nhóm được chọn trong bảng `10 Thuộc Tính → 1 đơn vị`, giữ phần thập phân. `Chính Xác/Né Tránh` vẫn là Điểm; Giá Trị Kháng `R` vẫn qua mô hình tiệm cận §3.3.
+- Thượng Cấp, xác suất, Hút Máu và `% Tăng Sát Thương` không nhận chuyển đổi trực tiếp từ Thuộc Tính.
+- Không thay đổi công thức sát thương, Kháng, Định Tính, Hút Máu hoặc Tài Nguyên đã frozen trong Chỉ Số v1.
+
+## 20. Ngoài Phạm Vi v1 / Thiết Kế Tiếp Theo
 
 Các mục sau **không phải lỗ hổng của Hệ Thống Chỉ Số v1**, mà thuộc subsystem hoặc integration khác và sẽ thiết kế sau:
 

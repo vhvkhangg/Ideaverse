@@ -9,6 +9,10 @@ system: Chỉ Số
 > [!SUCCESS] FROZEN
 > Tài liệu này ghi **decision log** của Hệ Thống Chỉ Số v1. Source of truth chi tiết: [[CHỈ SỐ]]. Nếu một quyết định ở đây được mở lại, đổi trạng thái tại [[DESIGN STATUS]] thành `REOPENED` trước khi sửa canonical rule.
 
+
+> [!NOTE] Cập nhật liên subsystem sau freeze
+> Bảng chuyển đổi từ Thuộc Tính đã được FROZEN tại [[HỆ THỐNG THUỘC TÍNH v2]] và chi tiết trong [[THUỘC TÍNH#5. Chuyển Đổi Thuộc Tính → Chỉ Số/Tài Nguyên]]. Đây là bổ sung nguồn giá trị dẫn xuất, **không sửa công thức vận hành Chỉ Số/Tài Nguyên v1**. Không chuyển mặc định sang Chỉ Số Thượng Cấp, xác suất, Hút Máu, `% Tăng Sát Thương`, hay hồi phục `% Tối Đa/s`.
+
 ## Frozen Decisions
 
 ### Kiến Trúc
@@ -104,7 +108,7 @@ Kháng Sát Thương Nhục Thể/Linh Hồn
 
 Không nằm trong freeze Chỉ Số v1:
 
-- Công thức Thuộc Tính → Chỉ Số.
+- Hiệu chỉnh/cân bằng bảng chuyển đổi Thuộc Tính → Chỉ Số v2 (đã có bảng mặc định; xem [[THUỘC TÍNH]]).
 - Chi tiết Hệ Thống Tài Nguyên ngoài các pattern Chỉ Số liên quan.
 - Progression chi tiết từng Kỹ Năng.
 - Data/balance cụ thể cho từng Phụ Tố, Trang Bị, Nghề Nghiệp...

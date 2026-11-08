@@ -4,9 +4,8 @@ category: basic
 growth-type: ordinary
 allow-negative-base: false
 allow-negative-effective: false
-extraction: true
 status: frozen
-version: 1
+version: 2
 tags:
   - ideaverse/system/attribute
 ---
@@ -25,7 +24,6 @@ tags:
 | Phương thức tăng trưởng | Thông thường |
 | Base có thể âm | Không |
 | Effective có thể âm | Không |
-| Chiết xuất theo Chuyển | Có |
 
 ## Bản Chất
 
@@ -58,7 +56,12 @@ tags:
 
 ## Quan Hệ Với Chỉ Số/Tài Nguyên
 
-Tinh Thần thường đóng góp vào `Tinh Lực Tối Đa`, các [[NĂNG LƯỢNG]] phù hợp, `Công Pháp Thuật` hoặc tác vụ tinh thần nếu subsystem quy định. Không phải mọi Năng Lượng đều bắt buộc scale từ Tinh Thần và không có conversion cố định toàn cục.
+- Mỗi 1 Effective: `+10 Công Pháp Thuật`, `+100 Tinh Lực Tối Đa`, `+5 Kháng Phép`, `+10 Định Tính Tối Đa`.
+- Mỗi 10 Effective: `+1 Xuyên Kháng Phép` và `+1 Giá Trị Pháp Thuật Kháng Tính` (Trung Cấp).
+- Năng Lượng Tối Đa của từng pool tương thích: `100 × Tinh Thần Effective × C_tương thích` nếu pool đã mở khóa.
+- Không tự tăng hồi phục `% Tối Đa/s`.
+
+Bảng và thứ tự chuyển đổi canonical: [[THUỘC TÍNH#5. Chuyển Đổi Thuộc Tính → Chỉ Số/Tài Nguyên]].
 
 ## Tăng Trưởng
 
@@ -70,16 +73,11 @@ Debuff/hiệu ứng tạm thời mặc định tác động lên Effective; mech
 
 ## Điểm Thuộc Tính Tự Do
 
-Có. `1 Điểm Thuộc Tính Tự Do = +1 Base` tại bậc Chuyển hiện tại.
-
-## Chiết Xuất
-
-- Có.
-- Tuân theo 10 Chuyển, Thí Luyện và Hệ Số Chiết Xuất Tích Lũy trong [[THUỘC TÍNH]].
+Có. `1 Điểm Thuộc Tính Tự Do = +1 Base`, không thêm bậc Chuyển vào tên; điểm cộng trước Chuyển được nhân thưởng Thí Luyện tương ứng. Xem [[THUỘC TÍNH#3. Điểm Thuộc Tính Tự Do]].
 
 ## Quy Đổi Giữa Các Hệ Thống
 
-Power system khác có thể quy về Tinh Thần chuẩn Ideaverse; quan hệ với Tinh Lực/Năng Lượng/Công Pháp Thuật do subsystem/build sở hữu.
+Power system khác ánh xạ về cùng thang Tinh Thần của Ideaverse. Chỉ Số dẫn xuất theo bảng mặc định v2; mechanic riêng chỉ được thay đổi hệ số/cộng thêm nếu khai báo rõ, không tính trùng.
 
 ## Trường Hợp Biên
 
@@ -89,4 +87,4 @@ Power system khác có thể quy về Tinh Thần chuẩn Ideaverse; quan hệ v
 
 ## Ví Dụ
 
-Hai nhân vật cùng `Tinh Thần: 10` có thể sở hữu loại Năng Lượng và dung lượng Năng Lượng khác nhau.
+Ví dụ `Tinh Thần Effective = 10` tạo `100 Công Pháp Thuật`, `1000 Tinh Lực Tối Đa`, `50 Kháng Phép`, `100 Định Tính Tối Đa`, `1 Xuyên Kháng Phép`, `1 Giá Trị Pháp Thuật Kháng Tính`; pool Năng Lượng đã mở khóa và `C_tương thích=1` có đóng góp `1000` dung lượng.

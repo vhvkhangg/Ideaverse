@@ -5,10 +5,10 @@
 
 ## Thuộc Tính
 
-- [[THUỘC TÍNH]] — source of truth **FROZEN v1** cho Hệ Thống Thuộc Tính.
+- [[THUỘC TÍNH]] — source of truth **FROZEN v2** cho Hệ Thống Thuộc Tính.
 - **Cơ Bản:** [[Sức Mạnh]], [[Thể Chất]], [[Nhanh Nhẹn]], [[Tinh Thần]].
 - **Đặc Biệt:** [[Ngộ Tính]], [[Mị Lực]], [[Vận Khí]].
-- Decision log: [[HỆ THỐNG THUỘC TÍNH v1]].
+- Decision log: [[HỆ THỐNG THUỘC TÍNH v2]]; bản lịch sử: [[HỆ THỐNG THUỘC TÍNH v1]].
 
 ## Chỉ Số
 
@@ -28,12 +28,13 @@
 
 ```text
 Thuộc Tính
-→ thông qua Hệ Số Chuyển Đổi của build/subsystem
+→ Bảng chuyển đổi mặc định v2 (Cơ Sở / một số Trung Cấp)
+→ Các nguồn/điều chỉnh hệ số riêng được khai báo rõ
 → Chỉ Số / giới hạn Tài Nguyên
 → Tài Nguyên quản lý giá trị hiện tại
 ```
 
-Không có bảng conversion toàn cục cố định từ Thuộc Tính sang Chỉ Số.
+Bảng mặc định và danh sách loại trừ tại [[THUỘC TÍNH#5. Chuyển Đổi Thuộc Tính → Chỉ Số/Tài Nguyên]]: không chuyển trực tiếp sang Chỉ Số Thượng Cấp, xác suất, Hút Máu, `% Tăng Sát Thương`, hoặc hồi phục `% Tối Đa/s`.
 
 ---
 

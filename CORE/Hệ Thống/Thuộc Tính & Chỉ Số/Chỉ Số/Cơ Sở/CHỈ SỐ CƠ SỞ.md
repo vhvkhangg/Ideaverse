@@ -61,3 +61,7 @@ Nhiều modifier `%` độc lập dùng quy tắc multiplicative của [[CHỈ S
 
 - `Tầm Đánh`, `Tầm Kỹ Năng`, `Phạm Vi Ảnh Hưởng` cơ sở thuộc Vũ Khí/Kỹ Năng; nhân vật chỉ có modifier tương ứng ở Thượng Cấp.
 - Không tồn tại Chỉ Số toàn nhân vật `Tốc Độ Thi Triển` hoặc `Tốc Độ Hồi Chiêu`.
+
+## 6. Nguồn Chuyển Đổi Thuộc Tính v2
+
+Các Chỉ Số Cơ Sở được chuyển đổi mặc định từ Thuộc Tính Effective theo bảng tại [[THUỘC TÍNH#5.2. Bảng Chỉ Số Cơ Sở — Mặc Định v2]]. Dung lượng Tài Nguyên có thể tăng từ đóng góp dẫn xuất, nhưng Giá Trị Hiện Tại vẫn do [[TÀI NGUYÊN]] quản lý. `Hồi Phục <Tài Nguyên>` và `Tỷ Lệ Hồi Phục <Tài Nguyên>` **không** tự tăng từ bảng mặc định này.

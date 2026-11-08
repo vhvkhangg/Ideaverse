@@ -4,9 +4,8 @@ category: basic
 growth-type: ordinary
 allow-negative-base: false
 allow-negative-effective: false
-extraction: true
 status: frozen
-version: 1
+version: 2
 tags:
   - ideaverse/system/attribute
 ---
@@ -25,7 +24,6 @@ tags:
 | Phương thức tăng trưởng | Thông thường |
 | Base có thể âm | Không |
 | Effective có thể âm | Không |
-| Chiết xuất theo Chuyển | Có |
 
 ## Bản Chất
 
@@ -58,7 +56,11 @@ tags:
 
 ## Quan Hệ Với Chỉ Số/Tài Nguyên
 
-Nhanh Nhẹn thường đóng góp vào `Tốc Độ Đánh`, `Tốc Độ Di Chuyển`, `Chính Xác`, `Né Tránh` và đại lượng vận động phù hợp. Không có conversion cố định toàn cục.
+- Mỗi 1 Effective: `+2 đòn/s Tốc Độ Đánh`, `+8 m/s Tốc Độ Di Chuyển` (Cơ Sở).
+- Mỗi 10 Effective: `+1 Chính Xác` và `+1 Né Tránh` (Điểm, Trung Cấp).
+- Không tự tăng `Tỷ Lệ Chí Mạng` hoặc xác suất Đón Đỡ.
+
+Bảng và thứ tự chuyển đổi canonical: [[THUỘC TÍNH#5. Chuyển Đổi Thuộc Tính → Chỉ Số/Tài Nguyên]].
 
 ## Tăng Trưởng
 
@@ -70,16 +72,11 @@ Debuff/hiệu ứng tạm thời mặc định tác động lên Effective; mech
 
 ## Điểm Thuộc Tính Tự Do
 
-Có. `1 Điểm Thuộc Tính Tự Do = +1 Base` tại bậc Chuyển hiện tại.
-
-## Chiết Xuất
-
-- Có.
-- Tuân theo 10 Chuyển, Thí Luyện và Hệ Số Chiết Xuất Tích Lũy trong [[THUỘC TÍNH]].
+Có. `1 Điểm Thuộc Tính Tự Do = +1 Base`, không thêm bậc Chuyển vào tên; điểm cộng trước Chuyển được nhân thưởng Thí Luyện tương ứng. Xem [[THUỘC TÍNH#3. Điểm Thuộc Tính Tự Do]].
 
 ## Quy Đổi Giữa Các Hệ Thống
 
-Power system khác có thể quy về Nhanh Nhẹn chuẩn Ideaverse; hệ số dẫn xuất do subsystem/build định nghĩa.
+Power system khác ánh xạ về cùng thang Nhanh Nhẹn của Ideaverse. Chỉ Số dẫn xuất theo bảng mặc định v2; mechanic riêng chỉ được thay đổi hệ số/cộng thêm nếu khai báo rõ, không tính trùng.
 
 ## Trường Hợp Biên
 
@@ -89,4 +86,4 @@ Power system khác có thể quy về Nhanh Nhẹn chuẩn Ideaverse; hệ số 
 
 ## Ví Dụ
 
-Hai cá thể cùng `Nhanh Nhẹn: 10` không bắt buộc có cùng `Tốc Độ Di Chuyển` nếu nguồn chuyển đổi khác nhau.
+Ví dụ `Nhanh Nhẹn Effective = 15` tạo `30 đòn/s`, `120 m/s`, `1.5 Chính Xác` và `1.5 Né Tránh` trước nguồn khác.

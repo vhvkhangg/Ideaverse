@@ -211,7 +211,7 @@ Hệ số chuyển đổi cuối cùng
 Ví dụ, hệ số chuyển đổi cơ sở của nhân vật là:
 
 ```text
-1 Sức Mạnh → 1 Công Vật Lý
+1 Sức Mạnh → 10 Công Vật Lý
 ```
 
 Khi kỹ năng đạt cấp `100`:
@@ -220,7 +220,7 @@ Khi kỹ năng đạt cấp `100`:
 Cấp đặc tính = 100 ÷ 10 = 10
 Hệ số cộng thêm = 10 × 0,1 = 1
 
-1 Sức Mạnh → 2 Công Vật Lý
+1 Sức Mạnh → 11 Công Vật Lý
 ```
 
 #### Quy tắc
@@ -552,7 +552,7 @@ Giả sử nhân vật có:
 ```text
 Base Sức Mạnh: 1.000
 Cấp Sức Mạnh Huấn Luyện: 100
-Hệ số chuyển đổi cơ sở: 1 Sức Mạnh → 1 Công Vật Lý
+Hệ số chuyển đổi cơ sở: 1 Sức Mạnh → 10 Công Vật Lý
 Không có nguồn Công Vật Lý khác
 ```
 
@@ -620,14 +620,14 @@ Hệ số chuyển đổi cộng thêm
 Hệ số cuối cùng:
 
 ```text
-1 Sức Mạnh → 2 Công Vật Lý
+1 Sức Mạnh → 11 Công Vật Lý
 ```
 
 Công Vật Lý từ Sức Mạnh:
 
 ```text
-2.200 × 2
-= 4.400
+2.200 × 11
+= 24.200
 ```
 
 ### 5. Bá Lực Gia Trì
@@ -640,8 +640,8 @@ Tăng Công Vật Lý = 10%
 
 ```text
 Công Vật Lý cuối cùng
-= 4.400 × 1,1
-= 4.840
+= 24.200 × 1,1
+= 26.620
 ```
 
 ### 6. Phá Giáp Trực Chỉ

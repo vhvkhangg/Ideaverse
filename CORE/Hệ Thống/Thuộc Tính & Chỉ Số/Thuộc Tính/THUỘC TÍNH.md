@@ -1,7 +1,7 @@
 ---
 type: system
 status: frozen
-version: 1
+version: 2
 scope: attributes
 tags:
   - ideaverse/system/attribute
@@ -10,7 +10,7 @@ tags:
 # THUỘC TÍNH
 
 > [!ABSTRACT] Source of Truth
-> Đây là nguồn định nghĩa chính thức cho **Hệ Thống Thuộc Tính v1** của Ideaverse. Bản đồ subsystem: [[HỆ THỐNG THUỘC TÍNH & CHỈ SỐ]]. Decision log: [[HỆ THỐNG THUỘC TÍNH v1]].
+> Đây là nguồn định nghĩa chính thức cho **Hệ Thống Thuộc Tính v2** của Ideaverse. Bản đồ subsystem: [[HỆ THỐNG THUỘC TÍNH & CHỈ SỐ]]. Decision log: [[HỆ THỐNG THUỘC TÍNH v2]].
 
 ## 1. Phân Loại
 
@@ -23,7 +23,7 @@ tags:
 
 Thuộc Tính Cơ Bản có thể tăng bằng các phương thức tăng trưởng thông thường được hệ thống cho phép, gồm level, Điểm Thuộc Tính Tự Do, rèn luyện, Công Pháp, Nghề Nghiệp, Thiên Phú, vật phẩm hoặc cơ chế tương đương.
 
-Bốn Thuộc Tính Cơ Bản chịu **Chiết Xuất Thuộc Tính** khi [[HỆ THỐNG NGHỀ NGHIỆP|Nghề Nghiệp]] Chuyển.
+Bốn Thuộc Tính Cơ Bản có thể nhận Hồi Báo Thí Luyện khi [[HỆ THỐNG NGHỀ NGHIỆP|Nghề Nghiệp]] Chuyển. **Không** đổi đơn vị hoặc thêm hậu tố bậc Chuyển vào tên Thuộc Tính.
 
 ### 1.2. Thuộc Tính Đặc Biệt
 
@@ -33,7 +33,7 @@ Bốn Thuộc Tính Cơ Bản chịu **Chiết Xuất Thuộc Tính** khi [[HỆ
 
 Thuộc Tính Đặc Biệt không tăng bằng Điểm Thuộc Tính Tự Do hoặc tăng trưởng level thông thường. Chúng chỉ thay đổi bởi phương thức đặc biệt/hiếm hoặc một mechanic ghi rõ ngoại lệ.
 
-Thuộc Tính Đặc Biệt **không** chịu Chiết Xuất theo Chuyển Nghề.
+Thuộc Tính Đặc Biệt không nhận Hồi Báo Thí Luyện theo mặc định; chỉ tăng bằng mechanic đặc biệt được phép.
 
 ---
 
@@ -115,276 +115,148 @@ Tăng trưởng vĩnh viễn như Điểm Thuộc Tính Tự Do, rèn luyện, �
 
 ## 3. Điểm Thuộc Tính Tự Do
 
-### 3.1. Phạm Vi
+### 3.1. Phạm Vi & Quy Đổi
 
-Điểm Thuộc Tính Tự Do chỉ phân bổ trực tiếp vào bốn Thuộc Tính Cơ Bản.
-
-### 3.2. Quy Đổi
-
-**1 Điểm Thuộc Tính Tự Do = +1 Base** của Thuộc Tính tại **bậc Chuyển hiện tại**.
-
-Ví dụ chưa Chuyển:
-
-```text
-Sức Mạnh: 10
-+1 Điểm Thuộc Tính Tự Do
-→ Sức Mạnh: 11
-```
-
-Ví dụ ở Chuyển III:
-
-```text
-Sức Mạnh III: 10
-+1 Điểm Thuộc Tính Tự Do
-→ Sức Mạnh III: 11
-```
-
-Một điểm nhận sau Chuyển III có giá trị ở **đơn vị Sức Mạnh III**, không quy ngược thành `+1` của bậc chưa Chuyển.
-
-### 3.3. Thời Điểm Nhận Điểm và Chiết Xuất
-
-- Điểm đã cộng **trước Chuyển** trở thành một phần của Base hiện tại và bị xử lý cùng toàn bộ Base khi Thí Luyện + Chiết Xuất.
-- Điểm nhận **sau Chuyển** cộng trực tiếp `+1 Base` ở bậc Chuyển mới.
-
-### 3.4. Nguồn Nhận
-
-Phân phối Điểm Thuộc Tính Tự Do thuộc quyền sở hữu của [[HỆ THỐNG NGHỀ NGHIỆP]]. Cross-system constraint đã chốt:
-
-- Nghề Nghiệp phẩm chất cao nhất, độc hữu của Nhân Vật Chính: `+10` Điểm Thuộc Tính Tự Do mỗi level.
-- Nhân vật khác: Nghề Nghiệp tối đa `+5` Điểm Thuộc Tính Tự Do mỗi level.
-- Vật phẩm trực tiếp trao Điểm Thuộc Tính Tự Do tồn tại nhưng **cực kỳ hiếm**.
-
-Exact distribution của từng Nghề Nghiệp vẫn thuộc thiết kế Nghề Nghiệp, không phải công thức Thuộc Tính.
-
----
-
-## 4. Chuyển, Thí Luyện và Chiết Xuất Thuộc Tính
-
-### 4.1. Phạm Vi
-
-Cơ chế chỉ áp dụng cho:
-
-- Sức Mạnh
-- Thể Chất
-- Nhanh Nhẹn
-- Tinh Thần
-
-Nghề Nghiệp có **10 lần Chuyển**, tương ứng bậc `I` đến `X`. Khi một lần Chuyển hoàn tất, cả bốn Thuộc Tính Cơ Bản được xử lý cùng lúc.
-
-### 4.2. Cách Hiển Thị
-
-```text
-Sức Mạnh: x
-Sức Mạnh I: x
-Sức Mạnh II: x
-...
-Sức Mạnh X: x
-```
-
-Bậc Chuyển là một phần của tên hiển thị. Không dùng dạng `Sức Mạnh: x I`.
-
-### 4.3. Bậc Thí Luyện
-
-Mỗi lần Chuyển có bốn bậc Thí Luyện kỹ thuật. Tên lore riêng có thể được bổ sung trong Hệ Thống Nghề Nghiệp sau này.
-
-| Bậc Thí Luyện | Hồi Báo `R` | Hệ Số Chiết Xuất `K` |
-|---:|---:|---:|
-| I | `×2` | `2` |
-| II | `×5` | `5` |
-| III | `×10` | `10` |
-| IV | `×100` | `100` |
-
-Quy tắc v1 dùng:
-
-$$
-K=R
-$$
-
-Điều này khiến Thí Luyện khó hơn không làm số hiển thị phình ra vô hạn; phần Hồi Báo được giữ lại dưới dạng **chất lượng của đơn vị Thuộc Tính sau Chiết Xuất**.
-
-### 4.4. Trình Tự Chuyển
-
-Gọi:
-
-- `B_before`: Base ở bậc hiện tại ngay trước Chuyển;
-- `R`: Hồi Báo của bậc Thí Luyện;
-- `K`: Hệ Số Chiết Xuất tương ứng.
-
-Bước 1 — Hồi Báo tăng thẳng vào Base:
-
-$$
-B_{reward}=B_{before}\times R
-$$
-
-Bước 2 — Chiết Xuất sang đơn vị bậc mới:
-
-$$
-B_{after}=\frac{B_{reward}}{K}
-$$
-
-Vì `K = R` trong v1:
-
-$$
-B_{after}=B_{before}
-$$
-
-**Con số hiển thị có thể giữ nguyên, nhưng sức mạnh không giữ nguyên.** Một đơn vị ở bậc mới mang giá trị quy đổi lớn hơn theo `K` của Thí Luyện vừa hoàn thành.
+- Chỉ cộng trực tiếp vào bốn Thuộc Tính Cơ Bản.
+- **1 Điểm Thuộc Tính Tự Do = +1 Base** bất kể đã Chuyển bao nhiêu lần.
+- Tên Thuộc Tính luôn là `Sức Mạnh`, `Thể Chất`, `Nhanh Nhẹn`, `Tinh Thần`, không thêm `I–X`.
+- Điểm đã phân bổ trước một lần Chuyển nằm trong Base và nhận Hồi Báo Thí Luyện cùng Base đó. Điểm phân bổ sau lần Chuyển không được hồi tố nhân thưởng của lần Chuyển đã hoàn tất.
 
 Ví dụ:
 
 ```text
-Sức Mạnh: 10
-Thí Luyện IV: ×100
+Sức Mạnh Base = 10
++1 Điểm Thuộc Tính Tự Do trước Chuyển → Base = 11
+Thí Luyện IV (×100)                 → Base = 1100
 
-Hồi Báo:
-10 × 100 = 1000 Base cũ
-
-Chiết Xuất K = 100:
-1000 / 100 = 10
-
-→ Sức Mạnh I: 10
+Nếu giữ điểm lại và cộng sau Chuyển:
+Base = 10 × 100 + 1 = 1001
 ```
 
-`Sức Mạnh I: 10` ở ví dụ trên tương đương `1000` đơn vị Sức Mạnh chưa Chuyển.
+### 3.2. Nguồn Nhận
 
-### 4.5. Hệ Số Chiết Xuất Tích Lũy
-
-Vì `K` có thể khác ở từng lần Chuyển, không dùng công thức cũ `K^r`.
-
-Gọi:
-
-$$
-C_r=\prod_{j=1}^{r}K_j
-$$
-
-`Cᵣ` là **Hệ Số Chiết Xuất Tích Lũy** sau `r` lần Chuyển.
-
-Giá trị quy đổi về đơn vị chưa Chuyển:
-
-$$
-B_{equivalent}=B_{displayed}\times C_r
-$$
-
-Ví dụ lịch sử Thí Luyện:
-
-```text
-Chuyển I:  ×2
-Chuyển II: ×10
-Chuyển III: ×100
-```
-
-thì:
-
-```text
-C₃ = 2 × 10 × 100 = 2000
-```
-
-Nếu:
-
-```text
-Sức Mạnh III: 12
-```
-
-thì:
-
-```text
-Equivalent chưa Chuyển = 12 × 2000 = 24000
-```
-
-> [!IMPORTANT]
-> Hai nhân vật cùng `Sức Mạnh III: 12` chưa chắc mạnh tương đương nếu lịch sử Thí Luyện khác nhau. Khi cần so sánh tuyệt đối, phải dùng `Hệ Số Chiết Xuất Tích Lũy` hoặc giá trị Equivalent.
-
-### 4.6. Ý Nghĩa Chiết Xuất
-
-Chiết Xuất là **đổi đơn vị/chất lượng biểu diễn**, không phải nerf. Hồi Báo của Thí Luyện được áp dụng trước; Chiết Xuất chỉ nén giá trị về thang đọc được ở bậc mới.
-
-Không có hard cap cho Base trước hoặc sau Chuyển.
+- Nghề Nghiệp phẩm chất cao nhất độc hữu Nhân Vật Chính: `+10` Điểm Thuộc Tính Tự Do/level.
+- Nghề Nghiệp của nhân vật khác: tối đa `+5` điểm/level.
+- Vật phẩm cho Điểm Thuộc Tính Tự Do tồn tại nhưng **cực kỳ hiếm**.
+- Lộ trình nhận điểm cụ thể theo Nghề Nghiệp vẫn **IN DESIGN**; không tự động suy ra từ bản quy tắc Thuộc Tính này.
 
 ---
 
-## 5. Quan Hệ Thuộc Tính → Chỉ Số và Tài Nguyên
+## 4. Chuyển và Hồi Báo Thí Luyện
 
-### 5.1. Không Có Universal Conversion Table
+- Nghề Nghiệp có **10 lần Chuyển** (`I–X`), nhưng đó là **bậc Nghề Nghiệp**, không phải bậc/đơn vị của Thuộc Tính.
+- Mỗi lần Chuyển chọn một trong bốn cấp Thí Luyện. Hồi Báo áp dụng đồng thời lên Base của bốn Thuộc Tính Cơ Bản.
+- Không có **Chiết Xuất**, `K`, Hệ Số Chiết Xuất Tích Lũy, giá trị Equivalent, hay biểu diễn `Sức Mạnh I`, `Sức Mạnh II`.
 
-Ideaverse **không** dùng bảng toàn cục kiểu:
-
-```text
-1 Sức Mạnh = 10 Công Vật Lý
-1 Thể Chất = 100 Sinh Mệnh Lực Tối Đa
-```
-
-Thay vào đó, mỗi subsystem/build định nghĩa **Hệ Số Chuyển Đổi** của riêng nó.
-
-Với một đóng góp đơn:
+| Cấp Thí Luyện | Hồi Báo `R` |
+|---|---:|
+| I | `×2` |
+| II | `×5` |
+| III | `×10` |
+| IV | `×100` |
 
 $$
-Contribution=EffectiveAttribute\times C
+B_{\mathrm{sau}}=B_{\mathrm{truoc}}\times R
 $$
 
-Với nhiều Thuộc Tính cùng đóng góp:
+Hồi Báo làm tăng **Base thật**, không chỉ thay đổi đơn vị hiển thị. Nếu có nhiều lần Chuyển, dùng chính Base sau mỗi lần Chuyển làm đầu vào cho lần kế tiếp, cộng mọi tăng trưởng hợp lệ xảy ra giữa các lần. Ví dụ Base `10` qua hai Thí Luyện `×5` và `×10`, không có thay đổi khác, sẽ thành `500`.
+
+Thí Luyện không tự nhân Thuộc Tính Đặc Biệt, không tự nhân Chỉ Số hoặc Tài Nguyên đã tồn tại. Chỉ Số được **tính lại từ Thuộc Tính Effective mới** theo bảng chuyển đổi của mục 5, rồi cộng các nguồn độc lập và áp modifier Chỉ Số tương ứng.
+
+> [!CAUTION] Cân bằng
+> Nếu đạt Thí Luyện IV cả 10 lần, chỉ riêng phần thưởng có thể nhân Base ban đầu lên `100^10 = 1e20`. Đây là hệ quả chủ ý của lựa chọn không Chiết Xuất, không phải một giá trị đã được kiểm chứng cân bằng.
+
+---
+
+## 5. Chuyển Đổi Thuộc Tính → Chỉ Số/Tài Nguyên
+
+### 5.1. Nguyên Tắc
+
+- Chỉ bốn **Thuộc Tính Cơ Bản Effective** tham gia chuyển đổi mặc định; ba Thuộc Tính Đặc Biệt không tham gia.
+- **Chỉ Số Cơ Sở** có thể chuyển đổi theo tỷ lệ `1 Thuộc Tính → y Chỉ Số` tùy đơn vị đích.
+- **Chỉ Số Trung Cấp** được chọn lọc có tỷ lệ `10 Thuộc Tính → 1 đơn vị Chỉ Số` (`z=10`, `k=1`); giữ giá trị thập phân, **không** lấy `floor` theo từng mốc.
+- **Chỉ Số Thượng Cấp không có chuyển đổi mặc định hoặc trực tiếp từ Thuộc Tính.** Chúng chỉ đến từ Nghề Nghiệp, Thiên Phú, Kỹ Năng, Công Pháp, Trang Bị, Huyết Mạch hay nguồn khác ghi rõ.
+- Không chuyển đổi Thuộc Tính trực tiếp thành **Chỉ Số xác suất** (Tỷ Lệ Chí Mạng, Tỷ Lệ Đón Đỡ...), Hút Máu, `% Tăng Sát Thương` theo Loại/tag, hay **Tỷ Lệ Hồi Phục `% Tối Đa/s`**.
+- Công thức này xác định *đóng góp mặc định* của Thuộc Tính. Các nguồn độc lập và mechanic tăng hệ số chuyển đổi vẫn có thể tác động, nhưng phải ghi rõ mục tiêu và thứ tự xử lý; không được áp cùng một đóng góp hai lần.
+
+Với `A_i` là **Effective** của Thuộc Tính tương ứng và `c_{i,s}` là hệ số tại bảng:
 
 $$
-DerivedBase=\sum_i(EffectiveAttribute_i\times C_i)+OtherSources
+\mathrm{Contribution}_{s}=\sum_i A_i\,c_{i,s}
 $$
 
-`Cᵢ` có thể được quyết định bởi:
+$$
+S_{\mathrm{pre},s}=\mathrm{Contribution}_{s}+\mathrm{Other}_{s}
+$$
 
-- Chủng Tộc;
-- Nghề Nghiệp;
-- Công Pháp;
-- Huyết Mạch;
-- Thiên Phú;
-- hệ thống sức mạnh của thế giới/phó bản;
-- trạng thái hoặc mechanic đặc biệt khác.
+Sau đó mới áp modifier theo [[CHỈ SỐ]]; **không nhân lặp** một buff Thuộc Tính vào Chỉ Số lần nữa. Khi Effective thay đổi, phần dẫn xuất được tính lại theo giá trị mới, không mặc định sửa Base vĩnh viễn.
 
-### 5.2. Quan Hệ Mặc Định
+### 5.2. Bảng Chỉ Số Cơ Sở — Mặc Định v2
 
-Đây là **hướng đóng góp mặc định**, không phải độc quyền hay tỷ lệ cố định.
+| Thuộc Tính | Cứ +1 Effective tạo ra | Đơn vị |
+|---|---|---|
+| **Sức Mạnh** | `+10 Công Vật Lý` | Điểm |
+| **Thể Chất** | `+100 Sinh Mệnh Lực Tối Đa`; `+100 Thể Lực Tối Đa`; `+5 Giáp`; `+10 Định Tính Tối Đa` | Điểm |
+| **Nhanh Nhẹn** | `+2 Tốc Độ Đánh`; `+8 Tốc Độ Di Chuyển` | đòn/s; m/s |
+| **Tinh Thần** | `+10 Công Pháp Thuật`; `+100 Tinh Lực Tối Đa`; `+5 Kháng Phép`; `+10 Định Tính Tối Đa` | Điểm |
 
-| Thuộc Tính | Các Chỉ Số/Tài Nguyên thường liên quan |
-|---|---|
-| **Sức Mạnh** | Công Vật Lý, khả năng phát lực, một phần Thể Lực hoặc Chỉ Số vật lý nếu build quy định. |
-| **Thể Chất** | Sinh Mệnh Lực Tối Đa, Thể Lực Tối Đa, hồi phục thể chất, độ bền cơ thể. |
-| **Nhanh Nhẹn** | Tốc Độ Đánh, Tốc Độ Di Chuyển, Chính Xác, Né Tránh và các đại lượng vận động phù hợp. |
-| **Tinh Thần** | Tinh Lực Tối Đa, các Năng Lượng phù hợp, Công Pháp Thuật trong hệ thống phù hợp và khả năng vận hành tinh thần. |
+`Định Tính Tối Đa` nhận đồng thời đóng góp `10 × Thể Chất + 10 × Tinh Thần`; không chỉ chọn một phía.
 
-Thuộc Tính chỉ là **một nguồn đóng góp**. Chỉ Số/Tài Nguyên còn có thể nhận giá trị từ Nghề Nghiệp, Công Pháp, Trang Bị, Thiên Phú, Huyết Mạch và các subsystem khác.
+Không có chuyển đổi mặc định từ Thuộc Tính sang **Hồi Phục flat** hoặc **Tỷ Lệ Hồi Phục % Tối Đa/s**. Hồi phục có thể được cấp bởi nguồn riêng. Điều này không cấm một mechanic cụ thể có công thức hồi phục rõ ràng, nhưng không được hiểu rằng mọi Thuộc Tính đều tự cấp hồi phục.
 
-### 5.3. Thuộc Tính Đặc Biệt
+### 5.3. Bảng Chỉ Số Trung Cấp — Mặc Định v2
 
-Mặc định [[Ngộ Tính]], [[Mị Lực]] và [[Vận Khí]] **không sinh Chỉ Số chiến đấu trực tiếp theo một conversion table**.
+| Thuộc Tính | Cứ +10 Effective tạo ra | Đơn vị |
+|---|---|---|
+| **Sức Mạnh** | `+1 Xuyên Giáp` | Điểm |
+| **Thể Chất** | `+1 Giá Trị Vật Lý Kháng Tính` | Giá trị Kháng `R` |
+| **Nhanh Nhẹn** | `+1 Chính Xác` và `+1 Né Tránh` | Điểm |
+| **Tinh Thần** | `+1 Xuyên Kháng Phép` và `+1 Giá Trị Pháp Thuật Kháng Tính` | Điểm; giá trị Kháng `R` |
 
-- Ngộ Tính được subsystem học tập/lĩnh ngộ/cải tiến sử dụng.
-- Mị Lực được subsystem xã hội/ấn tượng sử dụng.
-- Vận Khí điều chỉnh trọng số của kết quả vốn đã có xác suất `> 0`; không tạo kết quả có xác suất `0`.
+Ví dụ `Nhanh Nhẹn = 15 Effective` → `+1.5 Chính Xác` và `+1.5 Né Tránh` trước các nguồn khác; **không** làm tròn thành `+1`.
 
-Một mechanic cụ thể có thể chuyển chúng thành Chỉ Số nếu ghi rõ ngoại lệ.
+`+1 Giá Trị Kháng` là `+1` đơn vị đầu vào `R` của công thức Kháng tiệm cận tại [[CHỈ SỐ#3.3. Mô Hình Kháng Tiệm Cận]], **không** có nghĩa giảm đúng `1%` sát thương. Các nguồn Kháng độc lập vẫn được xử lý theo quy tắc stacking đã frozen; không cộng toàn bộ nguồn thành một phần trăm hiệu lực.
+
+Không chuyển trực tiếp các Chỉ Số Trung Cấp còn lại bằng bảng mặc định. Nguồn riêng muốn bổ sung hiệu ứng phải định nghĩa rành mạch, không suy diễn tự động từ tên Thuộc Tính.
+
+### 5.4. Năng Lượng Tối Đa
+
+`Năng Lượng` là nhóm Tài Nguyên có nhiều pool riêng; **không** tự sinh một pool chỉ vì Tinh Thần tăng. Đối với mỗi pool đã mở khóa và có liên kết với Tinh Thần:
+
+$$
+E_{\mathrm{max,pool}}=100\times T_{\mathrm{Effective}}\times C_{\mathrm{compatible}}
+$$
+
+- `C_tương thích = 0`: không có đóng góp từ Tinh Thần; **không** đồng nghĩa pool bị xóa.
+- `C_tương thích = 1`: hệ số chuẩn của một pool tương thích đã mở khóa.
+- `C_tương thích > 0` khác `1`: do Công Pháp, Nghề Nghiệp, Chủng Tộc, Thiên Phú hoặc mechanic sở hữu; không có giới hạn cứng toàn hệ thống.
+- Một cá thể có thể có nhiều pool, mỗi pool có `C_tương thích` riêng. Các pool độc lập không tự chuyển lượng hiện tại cho nhau.
+- Pool không tương thích/không mở khóa **không** nhận dung lượng hoặc trạng thái mới từ công thức này.
+
+Giá trị **hiện tại** của Tài Nguyên thuộc [[TÀI NGUYÊN]], không phải Thuộc Tính. Khi Tối Đa thay đổi do Effective, không tự thêm lượng hiện tại; nếu vượt giới hạn mới thì xử lý theo quy tắc pool tại [[TÀI NGUYÊN]].
+
+### 5.5. Chỉ Số Không Được Chuyển Đổi Mặc Định
+
+- Mọi Chỉ Số **Thượng Cấp**.
+- Các Chỉ Số dạng **xác suất** và `Kháng Chí Mạng` (phán định xác suất).
+- `Hút Máu Đòn Đánh`, `Hút Máu Kỹ Năng` và các chỉ số Hút Máu khác.
+- Mọi `% Tăng Sát Thương` theo Loại/tag.
+- `Tỷ Lệ Hồi Phục <Tài Nguyên>` và `Tỷ Lệ Hồi Phục Định Tính` (% Tối Đa/s).
+
+`Chính Xác/Né Tránh` là **Điểm**, không phải xác suất trực tiếp, nên được chuyển đổi theo mục 5.3. Phân biệt tương tự với Giá Trị Kháng `R`.
 
 ---
 
 ## 6. Quy Đổi Giữa Các Power System
 
-Mọi power system mà MC gặp — Tu Tiên, Tây Huyễn, Hắc Khoa Kỹ, hệ thống phó bản nguyên tác... — được quy đổi về cùng lớp Thuộc Tính chuẩn của Ideaverse để so sánh.
+Các power system (Tu Tiên, Tây Huyễn, Hắc Khoa Kỹ, phó bản nguyên tác...) ánh xạ về **cùng một thang Thuộc Tính**, không có đơn vị theo bậc Chuyển hoặc Equivalent. Không xóa lore và mechanic bản địa.
 
-Quy đổi không xóa hệ thống bản địa. Nhân vật vẫn giữ Mana, Hồn Lực, Linh Lực, Racial Class, Cảnh Giới hoặc mechanic nguyên tác; lớp Thuộc Tính chỉ là chuẩn đo xuyên thế giới.
-
-Khi so sánh nhân vật ở các bậc Chuyển/lịch sử Thí Luyện khác nhau, sử dụng **Equivalent** sau khi tính Hệ Số Chiết Xuất Tích Lũy.
+Bảng ở mục 5 là **chuẩn mặc định Ideaverse**. Nếu một Nghề Nghiệp, Công Pháp, Kỹ Năng hoặc Chủng Tộc có hệ số khác, nó phải ghi rõ **đóng góp nào bị thay thế/bổ sung, áp dụng trước hay sau conversion**, và tránh nhân/cộng trùng một nguồn. Không mặc định mọi build dùng các hệ số riêng khác nhau như v1.
 
 ---
 
-## 7. Frozen Boundary
+## 7. Frozen Boundary — v2
 
-Hệ Thống Thuộc Tính v1 đã khóa:
+Đã khóa: danh sách 7 Thuộc Tính; chuẩn `0/~0.5/1/>1`; Base/Effective; không hard cap; Điểm Tự Do `+1 Base`; 10 Chuyển; Hồi Báo Thí Luyện `×2/×5/×10/×100` **không Chiết Xuất**; tên Thuộc Tính không thêm hậu tố; chuyển đổi Cơ Sở theo bảng và Trung Cấp `10→1` có thập phân; loại trừ Thượng Cấp, xác suất, Hút Máu, tăng sát thương và hồi phục `%/s`; quy tắc tương thích Năng Lượng.
 
-- danh sách và phân loại Thuộc Tính;
-- chuẩn `0 / ~0.5 / 1 / >1` và không hard cap;
-- Base/Effective và modifier multiplicative;
-- Điểm Thuộc Tính Tự Do `+1 Base` tại bậc hiện tại;
-- 10 Chuyển;
-- bốn bậc Thí Luyện `×2 / ×5 / ×10 / ×100`;
-- `K = 2 / 5 / 10 / 100` tương ứng;
-- công thức Hồi Báo → Chiết Xuất → Equivalent;
-- mô hình conversion coefficient sang Chỉ Số/Tài Nguyên;
-- vai trò của ba Thuộc Tính Đặc Biệt.
-
-Exact coefficient của từng Nghề Nghiệp/Công Pháp/Chủng Tộc và tên lore của các bậc Thí Luyện thuộc subsystem sở hữu chúng, không phải phần mở của Thuộc Tính v1.
+Lịch sử thiết kế cũ: [[HỆ THỐNG THUỘC TÍNH v1]] **đã bị thay thế**. Phần Chiết Xuất trong v1 chỉ tồn tại như hồ sơ lịch sử, không còn hiệu lực canonical.

@@ -9,6 +9,10 @@ system: Tài Nguyên
 > [!SUCCESS] FROZEN
 > Decision log của Hệ Thống Tài Nguyên v1. Source of truth chi tiết: [[TÀI NGUYÊN]] và [[NĂNG LƯỢNG]]. Nếu mở lại một quyết định bên dưới, đổi trạng thái tại [[DESIGN STATUS]] thành `REOPENED` trước khi sửa canonical rule.
 
+
+> [!NOTE] Cập nhật liên subsystem sau freeze
+> Bảng chuyển đổi từ Thuộc Tính đã được FROZEN tại [[HỆ THỐNG THUỘC TÍNH v2]] và chi tiết trong [[THUỘC TÍNH#5. Chuyển Đổi Thuộc Tính → Chỉ Số/Tài Nguyên]]. Đây là bổ sung nguồn giá trị dẫn xuất, **không sửa công thức vận hành Chỉ Số/Tài Nguyên v1**. Không chuyển mặc định sang Chỉ Số Thượng Cấp, xác suất, Hút Máu, `% Tăng Sát Thương`, hay hồi phục `% Tối Đa/s`.
+
 ## Frozen Decisions
 
 ### Kiến Trúc

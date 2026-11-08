@@ -4,9 +4,8 @@ category: basic
 growth-type: ordinary
 allow-negative-base: false
 allow-negative-effective: false
-extraction: true
 status: frozen
-version: 1
+version: 2
 tags:
   - ideaverse/system/attribute
 ---
@@ -25,7 +24,6 @@ tags:
 | Phương thức tăng trưởng | Thông thường |
 | Base có thể âm | Không |
 | Effective có thể âm | Không |
-| Chiết xuất theo Chuyển | Có |
 
 ## Bản Chất
 
@@ -57,7 +55,11 @@ tags:
 
 ## Quan Hệ Với Chỉ Số/Tài Nguyên
 
-Thể Chất thường đóng góp vào `Sinh Mệnh Lực Tối Đa`, `Thể Lực Tối Đa`, hồi phục thể chất và các đại lượng độ bền phù hợp. Không có conversion cố định toàn cục; hệ số phụ thuộc build/subsystem.
+- Mỗi 1 Effective: `+100 Sinh Mệnh Lực Tối Đa`, `+100 Thể Lực Tối Đa`, `+5 Giáp`, `+10 Định Tính Tối Đa`.
+- Mỗi 10 Effective: `+1 Giá Trị Vật Lý Kháng Tính` (`R`, không phải 1% giảm damage).
+- Không tự tăng Tỷ Lệ Hồi Phục `%/s`.
+
+Bảng và thứ tự chuyển đổi canonical: [[THUỘC TÍNH#5. Chuyển Đổi Thuộc Tính → Chỉ Số/Tài Nguyên]].
 
 ## Tăng Trưởng
 
@@ -69,16 +71,11 @@ Debuff/hiệu ứng tạm thời mặc định tác động lên Effective; mech
 
 ## Điểm Thuộc Tính Tự Do
 
-Có. `1 Điểm Thuộc Tính Tự Do = +1 Base` tại bậc Chuyển hiện tại.
-
-## Chiết Xuất
-
-- Có.
-- Tuân theo 10 Chuyển, Thí Luyện và Hệ Số Chiết Xuất Tích Lũy trong [[THUỘC TÍNH]].
+Có. `1 Điểm Thuộc Tính Tự Do = +1 Base`, không thêm bậc Chuyển vào tên; điểm cộng trước Chuyển được nhân thưởng Thí Luyện tương ứng. Xem [[THUỘC TÍNH#3. Điểm Thuộc Tính Tự Do]].
 
 ## Quy Đổi Giữa Các Hệ Thống
 
-Power system khác có thể quy về Thể Chất chuẩn Ideaverse; hệ số dẫn xuất Chỉ Số/Tài Nguyên vẫn do subsystem/build định nghĩa.
+Power system khác ánh xạ về cùng thang Thể Chất của Ideaverse. Chỉ Số dẫn xuất theo bảng mặc định v2; mechanic riêng chỉ được thay đổi hệ số/cộng thêm nếu khai báo rõ, không tính trùng.
 
 ## Trường Hợp Biên
 
@@ -88,4 +85,4 @@ Power system khác có thể quy về Thể Chất chuẩn Ideaverse; hệ số 
 
 ## Ví Dụ
 
-Hai cá thể cùng `Thể Chất: 10` có thể có `Sinh Mệnh Lực Tối Đa` khác nhau nếu Chủng Tộc/Nghề Nghiệp/Công Pháp cho hệ số chuyển đổi khác nhau.
+Ví dụ `Thể Chất Effective = 10` tạo `1000 Sinh Mệnh Lực Tối Đa`, `1000 Thể Lực Tối Đa`, `50 Giáp`, `100 Định Tính Tối Đa` và `1 Giá Trị Vật Lý Kháng Tính`.

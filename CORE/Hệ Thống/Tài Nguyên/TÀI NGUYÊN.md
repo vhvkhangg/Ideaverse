@@ -78,7 +78,7 @@ Hồi Phục Chân Nguyên
 Tỷ Lệ Hồi Phục Chân Nguyên
 ```
 
-Giá Trị Tối Đa và tốc độ hồi phục có thể được tác động bởi [[THUỘC TÍNH]], Công Pháp, Nghề Nghiệp, Thiên Phú, Trang Bị, Kỹ Năng hoặc mechanic khác. **Không có công thức universal bắt buộc Thuộc Tính phải quy đổi sang Tài Nguyên theo một tỷ lệ cố định.**
+Giá Trị Tối Đa và tốc độ hồi phục có thể được tác động bởi [[THUỘC TÍNH]], Công Pháp, Nghề Nghiệp, Thiên Phú, Trang Bị, Kỹ Năng hoặc mechanic khác. **Bảng chuyển đổi mặc định v2** cho Tài Nguyên Tối Đa được quy định tại [[THUỘC TÍNH#5. Chuyển Đổi Thuộc Tính → Chỉ Số/Tài Nguyên]]: Thể Chất → Sinh Mệnh Lực/Thể Lực Tối Đa; Tinh Thần → Tinh Lực Tối Đa và dung lượng pool Năng Lượng đã mở khóa, tương thích. Bảng này không tự tạo pool mới và **không tự tăng hồi phục `% Tối Đa/s`**.
 
 ## 4. Phụ Tố Nội Sinh Do Suy Giảm Tài Nguyên
 
@@ -192,7 +192,7 @@ Tài Nguyên/Năng Lượng chỉ chuyển hóa lẫn nhau khi mechanic cho phé
 
 Các phần sau **không làm Hệ Thống Tài Nguyên v1 trở thành chưa hoàn thiện**:
 
-- công thức Thuộc Tính → Chỉ Số Tài Nguyên;
+- cân bằng/hiệu chỉnh hệ số chuyển đổi Thuộc Tính → Chỉ Số Tài Nguyên v2 (đã có bảng mặc định ở [[THUỘC TÍNH]]);
 - gói modifier chi tiết của `Suy Nhược Sinh Mệnh / Suy Kiệt Thể Lực / Suy Kiệt Tinh Lực`;
 - taxonomy đầy đủ của mọi loại Năng Lượng và Đặc Tính;
 - điều kiện cụ thể của từng Công Pháp để Thăng Phẩm;

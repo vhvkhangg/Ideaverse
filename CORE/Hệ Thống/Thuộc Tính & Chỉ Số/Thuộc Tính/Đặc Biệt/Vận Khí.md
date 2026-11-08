@@ -4,9 +4,8 @@ category: special
 growth-type: special
 allow-negative-base: true
 allow-negative-effective: true
-extraction: false
 status: frozen
-version: 1
+version: 2
 tags:
   - ideaverse/system/attribute
 ---
@@ -25,7 +24,6 @@ tags:
 | Phương thức tăng trưởng | Đặc biệt/hiếm |
 | Base có thể âm | Có |
 | Effective có thể âm | Có |
-| Chiết xuất theo Chuyển | Không |
 
 ## Bản Chất
 
@@ -52,7 +50,7 @@ tags:
 
 ## Quan Hệ Với Chỉ Số/Tài Nguyên
 
-Vận Khí mặc định không sinh Chỉ Số chiến đấu trực tiếp. Mỗi subsystem xác suất phải định nghĩa cách Vận Khí điều chỉnh trọng số/xác suất của chính nó.
+Vận Khí không có chuyển đổi mặc định sang Chỉ Số Cơ Sở, Trung Cấp hoặc Thượng Cấp. Tác dụng riêng vẫn nằm trong subsystem phán định xác suất. Xem [[THUỘC TÍNH#5. Chuyển Đổi Thuộc Tính → Chỉ Số/Tài Nguyên]].
 
 ## Tăng Trưởng
 
@@ -65,11 +63,6 @@ Modifier/debuff có thể làm giảm Effective theo rule chung; mechanic làm t
 ## Điểm Thuộc Tính Tự Do
 
 Không nhận Điểm Thuộc Tính Tự Do thông thường.
-
-## Chiết Xuất
-
-- Không.
-- Không thêm hậu tố Chuyển `I–X`.
 
 ## Quy Đổi Giữa Các Hệ Thống
 

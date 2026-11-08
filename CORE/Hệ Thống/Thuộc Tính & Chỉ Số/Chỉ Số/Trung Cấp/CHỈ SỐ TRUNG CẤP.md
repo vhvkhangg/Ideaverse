@@ -103,3 +103,7 @@ Mặc định không áp cho DoT/Phụ Tố, phản sát thương, môi trườn
 | **Trì Hoãn Hồi Phục Định Tính** | giây | Thời gian từ lần cuối nhận Sức Phá tới khi bắt đầu hồi Định Tính. |
 
 Chỉ Số này có thể bị modifier bởi Kỹ Năng, Trang Bị hoặc mechanic khác.
+
+## 11. Nguồn Chuyển Đổi Thuộc Tính v2
+
+Chỉ `Xuyên Giáp`, `Vật Lý Kháng Tính`, `Chính Xác`, `Né Tránh`, `Xuyên Kháng Phép`, `Pháp Thuật Kháng Tính` nhận chuyển đổi mặc định từ Thuộc Tính, theo [[THUỘC TÍNH#5.3. Bảng Chỉ Số Trung Cấp — Mặc Định v2]]. Các Chỉ Số khác chỉ nhận từ nguồn/cơ chế được khai báo. Giá Trị Kháng `R` không phải phần trăm giảm sát thương trực tiếp.

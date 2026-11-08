@@ -4,9 +4,8 @@ category: special
 growth-type: special
 allow-negative-base: true
 allow-negative-effective: true
-extraction: false
 status: frozen
-version: 1
+version: 2
 tags:
   - ideaverse/system/attribute
 ---
@@ -25,7 +24,6 @@ tags:
 | Phương thức tăng trưởng | Đặc biệt/hiếm |
 | Base có thể âm | Có |
 | Effective có thể âm | Có |
-| Chiết xuất theo Chuyển | Không |
 
 ## Bản Chất
 
@@ -55,7 +53,7 @@ tags:
 
 ## Quan Hệ Với Chỉ Số/Tài Nguyên
 
-Mị Lực mặc định không sinh Chỉ Số chiến đấu trực tiếp. Subsystem xã hội, ấn tượng hoặc mechanic cụ thể quyết định cách sử dụng nó.
+Mị Lực không có chuyển đổi mặc định sang Chỉ Số Cơ Sở, Trung Cấp hoặc Thượng Cấp. Tác dụng riêng vẫn nằm trong subsystem xã hội/ấn tượng. Xem [[THUỘC TÍNH#5. Chuyển Đổi Thuộc Tính → Chỉ Số/Tài Nguyên]].
 
 ## Tăng Trưởng
 
@@ -68,11 +66,6 @@ Modifier/debuff có thể làm giảm Effective theo rule chung; mechanic làm t
 ## Điểm Thuộc Tính Tự Do
 
 Không nhận Điểm Thuộc Tính Tự Do thông thường.
-
-## Chiết Xuất
-
-- Không.
-- Không thêm hậu tố Chuyển `I–X`.
 
 ## Quy Đổi Giữa Các Hệ Thống
 

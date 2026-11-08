@@ -1,13 +1,13 @@
 ---
-status: frozen
+status: superseded
 version: 1
 system: Thuộc Tính
 ---
 
 # HỆ THỐNG THUỘC TÍNH v1
 
-> [!SUCCESS] FROZEN
-> Tài liệu này ghi **decision log** của Hệ Thống Thuộc Tính v1. Source of truth chi tiết: [[THUỘC TÍNH]]. Nếu một quyết định ở đây được mở lại, đổi trạng thái tại [[DESIGN STATUS]] thành `REOPENED` trước khi sửa canonical rule.
+> [!WARNING] SUPERSEDED — HỒ SƠ LỊCH SỬ, KHÔNG CÒN CANON
+> Đây là quyết định từng được freeze trong **v1**, được giữ nguyên để truy vết lịch sử. Kể từ **[[HỆ THỐNG THUỘC TÍNH v2]]**, cơ chế Chiết Xuất, `K`, Equivalent và tên Thuộc Tính có hậu tố Chuyển **đã bị bãi bỏ**. Không dùng công thức v1 để tính hiện tại. Source of truth: [[THUỘC TÍNH]]; trạng thái: [[DESIGN STATUS]].
 
 ## Frozen Decisions
 
