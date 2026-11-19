@@ -1,0 +1,1 @@
+Đã hấp thu huyết mạch Nhân Tộc.

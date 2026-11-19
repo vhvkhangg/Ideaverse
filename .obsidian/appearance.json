@@ -6,5 +6,6 @@
   "monospaceFontFamily": "Monaspace Xenon",
   "enabledCssSnippets": [],
   "theme": "obsidian",
-  "cssTheme": "Minimal"
+  "cssTheme": "Minimal",
+  "showRibbon": true
 }

@@ -7,17 +7,16 @@
 			- [[Chủng Tộc1]]
 	- **Công Pháp**
 		- **Nhân Vật Chính**
-			- [[Hô Hấp Pháp]]
-			- [[Luyện Hồn Pháp]]
 			- [[Luyện Khí Pháp]]
 			- [[Luyện Thể Pháp]]
+			- [[Vạn Tượng Quan Tưởng Pháp]]
 	- **Huyết Mạch**
 		- **Nhân Vật Chính**
 			- **Hạch Tâm**
 				- [[Huyết mạch 2]]
 				- [[Huyết Mạch1]]
-			- [[Huyết Mạch Bản Mệnh]]
 			- [[HUYẾT MẠCH]]
+			- [[Vạn Tượng Hỗn Nguyên Vô Cực Slime]]
 	- **Kiến Thức**
 		- **Nhân Vật Chính**
 			- **Luyện Dược Học**
@@ -29,38 +28,67 @@
 			- [[Trận Pháp Học]]
 	- **Kỹ Năng**
 		- **Nhân Vật Chính**
+			- **Bản Mệnh**
+				- [[Thần Trí Hạch]]
+				- [[Vạn Tượng Thích Ứng]]
 			- **Chung Kết**
 				- **Đấu Tuyệt Giả**
 					- [[Pháp Thiên Tượng Địa]]
 				- [[CHUNG KẾT]]
 			- **Hạch Tâm**
+				- [[Hiệu Ứng Kỹ Năng và Đòn Đánh]]
 				- [[Nguyên Hoá Vạn Pháp]]
+				- [[Nguyên Tố Hư Không]]
+				- [[Thuỷ Nguyên]]
+				- [[Vạn Hoá]]
+				- [[Vạn Tượng Lượng Tử]]
 				- [[Vạn Tượng Nguyên Hạch]]
 			- **Nghề Nghiệp**
-				- **Đấu Tuyệt Giả**
-					- [[Ngã Đao Thuẫn]]
-				- **Huỷ Diệt Giả**
+				- **Ám Ảnh Giả**
+					- [[Hư Vô Hãm Thất]]
 					- [[Ma Ảnh Nhận]]
 					- [[Tai Kiếp Chi Thủ]]
+				- **Đấu Tuyệt Giả**
+					- [[Đấu Chuyển Tinh Di]]
+					- [[Ngã Đao Thuẫn]]
+					- [[Quy Nguyên Nghịch Chuyển]]
+					- [[Tâm Niệm Chiến Thể]]
+				- **Huỷ Diệt Giả**
+					- [[Chư Nghiệt Phạt Tịnh]]
+					- [[Nguyên Chất Tróc Ra]]
+					- [[Nội Thứ Hư Tinh]]
 				- **Phòng Vệ Giả**
+					- [[Chấn Vực Giới]]
 					- [[Cửu Trọng Giới Bích]]
+				- **Tai Ương Giả**
+					- [[Trộm Thần Chi Thủ]]
+				- **Thánh Tâm Giả**
+					- [[Bạch Nhật Thiên Trú]]
+					- [[Thánh Lễ - Cực Quang]]
+					- [[Thánh Nghiệp - Luân Kính]]
+					- [[Thánh Tâm Diễn Linh]]
+				- **Thông Tuệ Giả**
+					- [[Ký Ức Cung Điện]]
+					- [[Siêu Duy Diễn Toán]]
 			- **Thông Dụng**
 				- [[Nhanh Nhẹn Huấn Luyện]]
 				- [[Sức Mạnh Huấn Luyện]]
 				- [[Tham Lam Chi Thủ]]
 				- [[Thể Chất Huấn Luyện]]
 				- [[Tinh Thần Huấn Luyện]]
-				- [[Trộm Thần Chi Thủ]]
-			- [[Kỹ Năng Bản Mệnh]]
 			- [[Ý TƯỞNG KỸ NĂNG - NHÂN VẬT CHÍNH]]
+	- **Lưu Phái**
+		- **Nhân Vật Chính**
+			- [[Thương Khung Lưu]]
 	- **Nghề Nghiệp**
 		- **Nhân Vật Chính**
 			- **Bản Mệnh**
 				- [[Vạn Tượng Giả]]
 			- **Hạch Tâm**
+				- [[Ám Ảnh Giả]]
+				- [[Chúc Phúc Giả]]
 				- [[Đấu Tuyệt Giả]]
 				- [[Huỷ Diệt Giả]]
-				- [[Mệnh Vận Giả]]
 				- [[Phòng Vệ Giả]]
 				- [[Sáng Tạo Giả]]
 				- [[Tai Ương Giả]]
@@ -75,26 +103,28 @@
 				- [[Cát]]
 				- [[Thánh Linh]]
 				- [[Trùng Sào]]
+			- **Hạch Tâm**
+				- [[Cơ Giới Chung Nguyên]]
+				- [[Cửu Thải Sắc Lộc]]
+				- [[Hắc Kim Bỉ Mông (Behemoth)]]
+				- [[Hoạ Thế Vô Tướng Thú]]
+				- [[Hư Vô Đường Lang]]
+				- [[Phượng Hoàng]]
+				- [[Thuỷ Nguyên Yêu Cơ]]
+				- [[Tinh Không Giới Long]]
+				- [[Vĩnh Hằng Linh Thụ]]
+				- [[Vong Hồn Quân Chủ]]
 			- **Thường**
 				- [[Bạch Tuộc]]
-				- [[Behemoth]]
 				- [[Bọ Hung]]
-				- [[Bọ Ngựa]]
-				- [[Cây]]
-				- [[Cơ Giới]]
 				- [[Côn Bằng]]
 				- [[Cú Mèo]]
 				- [[Hồ Ly]]
-				- [[Khô Lâu]]
+				- [[Huyễn Thiên Nguyệt Thần Điệp]]
 				- [[Loan]]
-				- [[Lộc]]
-				- [[Long]]
 				- [[Nghê]]
 				- [[Nhạn]]
 				- [[Nhện]]
-				- [[Phượng Hoàng]]
-				- [[Quạ]]
-				- [[Quy]]
 				- [[Rắn Nhiều Đầu]]
 				- [[Sao Năm Cánh]]
 				- [[Sen]]
@@ -102,21 +132,23 @@
 				- [[Sứa]]
 				- [[Tê Giác]]
 				- [[Thái Thản]]
-				- [[Thú]]
-				- [[Yêu Tinh]]
+				- [[Vân Vũ Đế Hạc]]
+			- **Toạ Kỵ**
+				- [[Ảm Dạ Độ Nha]]
+				- [[Trấn Thần Huyền Quy]]
 	- **Thể Chất & Thần Hồn**
 		- **Nhân Vật Chính**
 			- [[Cốt]]
-			- [[Da Gân Cơ Nhục]]
 			- [[Huyết]]
 			- [[Linh Căn]]
 			- [[Linh Tướng]]
 			- [[Lục Phủ Ngũ Tạng]]
-			- [[Mắt]]
 			- [[Não]]
 			- [[Tế Bào]]
 			- [[THỂ CHẤT TỔNG QUAN - NHÂN VẬT CHÍNH]]
 			- [[Tứ Chi]]
+			- [[Vạn Tượng Tinh Giáp]]
+			- [[Vạn Tượng Tinh Nhãn]]
 			- [[Vĩnh Hằng Hỗn Nguyên Chu Thiên Tinh Thần Thể]]
 	- **Thiên Phú**
 		- **Nhân Vật Chính**
@@ -140,8 +172,7 @@
 						- [[Hư Không]]
 						- [[Huy Hoàng]]
 						- [[Luyện Ngục]]
-						- [[Nguyệt Diệu]]
-						- [[Nhật Diệu]]
+						- [[Nhật Nguyệt]]
 						- [[Quần Tinh]]
 						- [[Tài Quyết]]
 						- [[Thẩm Phán]]
@@ -163,12 +194,18 @@
 		- [[HỆ THỐNG CHỦNG TỘC]]
 	- **Công Pháp**
 		- [[HỆ THỐNG CÔNG PHÁP]]
+	- **Hệ Thống Tu Luyện**
+		- **Luyện Hồn**
+		- **Luyện Khí**
+		- **Luyện Thể**
+		- [[Cấp Độ]]
 	- **Huyết Mạch**
 		- [[HỆ THỐNG HUYẾT MẠCH]]
 	- **Kiến Thức**
 		- [[HỆ THỐNG KIẾN THỨC]]
 	- **Kỹ Năng**
 		- [[HỆ THỐNG KỸ NĂNG]]
+	- **Lưu Phái**
 	- **Nghề Nghiệp**
 		- [[HỆ THỐNG NGHỀ NGHIỆP]]
 	- **Sủng Thú**
@@ -212,16 +249,30 @@
 	- [[HỆ THỐNG]]
 - **Lãnh Địa**
 	- **Anh Hùng**
+		- **Diễn Sinh**
+			- [[Shalltear Bloodfallen]]
+		- **Nguyên Sinh**
+			- [[Khổng Hi Duyệt]]
 		- [[ANH HÙNG]]
-		- [[Lãnh Địa/Anh Hùng/Shalltear Bloodfallen|Shalltear Bloodfallen]]
 	- **Công Trình Kiến Trúc**
-		- **Bản Mệnh**
-			- [[Lĩnh Chủ Chi Tâm]]
+		- **Chiến Tranh**
 		- **Hạch Tâm**
-			- [[Linh Mạch]]
+			- **Thành Trì**
+				- [[Hư Không Thành]]
+				- [[Huy Hoàng Thành]]
+				- [[Luyện Ngục Thành]]
+				- [[Nhật Nguyệt Thành]]
+				- [[Thế Giới Thành]]
+				- [[Thiên Khuyết Thành]]
+				- [[Thương Khung Thành]]
+				- [[Triều Tịch Thành]]
+				- [[Tử Linh Thành]]
+				- [[Vân Mộng Thành]]
+			- [[Nguyên Mạch]]
 		- **Sản Xuất**
-			- [[Linh Điền]]
-			- [[Linh Tuyền]]
+			- [[Nguyên Điền]]
+			- [[Nguyên Tuyền]]
+		- [[Lĩnh Chủ Chi Tâm]]
 	- **Quản Lý**
 		- **Quốc Hội**
 			- **Chính Phủ**
@@ -235,10 +286,25 @@
 		- [[NHÂN VẬT CHÍNH]]
 	- **Phản Diện**
 		- **Quái Vật**
+			- [[Ô Uế Nguyên Sào]]
 			- [[QUÁI VẬT]]
 	- **Phó Bản**
+		- **Bleach**
+		- **Đại Chúa Tể**
+		- **Đấu La Đại Lục**
+		- **Đấu Phá Thương Khung**
+		- **High School DxD**
+		- **HunterxHunter**
+		- **Naruto**
+		- **Nguyên Tôn**
+		- **One Piece**
 		- **Overlord**
-			- [[Nhân Vật/Phó Bản/Overlord/Shalltear Bloodfallen|Shalltear Bloodfallen]]
+			- [[OVERLORD]]
+			- [[Shalltear Bloodfallen]]
+		- **Thường Ngày**
+			- **Grand Blue**
+			- **Shokugeki no Souma**
+		- **Toàn Chức Pháp Sư**
 	- [[NHÂN VẬT]]
 - **Thế Giới**
 	- **Địa Lý**

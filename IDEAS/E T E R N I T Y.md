@@ -12,7 +12,6 @@ World Build
 			Tuyền Nhãn
 			Triều Tịch
 			Huyễn Nguyệt Huyền Đồng Tử
-			Huyễn Thiên Nguyệt Thần Điệp
 			Song Tử Độc Nhãn Cự Nhân
 			Bích Ngọc Hải Đông Thanh
 			Phù Sinh
@@ -26,7 +25,6 @@ World Build
 			Rực/Phần Thiên
 			Bích Lạc Hoàng Tuyền
 			Thượng Quan
-			Ảm Dạ Độ Nha
 			Ứng Mộng Dao
 			Uyển Thanh
 			Trấn Hồn
@@ -42,9 +40,7 @@ World Build
 			Niệm
 			Trác Việt
 			Hi Hữu
-			Tuyệt Cao Vô Thượng
 			Vạn Hoá 
-			Thống Ngự
 			Phá Quân
 			Tham Lang
 			Lương/Tinh/Trân/Cực Phẩm
@@ -133,8 +129,6 @@ World Build
 			Aetherion
 			Aurelius
 			Jugram Haschwalth
-	Thê Tử
-		Shalltear Bloodfallen
 	Quốc Gia: 
 	Hệ Thống Cơ Quan Chính Phủ
 		Nội Các
@@ -267,23 +261,11 @@ World Build
 			Thuỷ Nguyên Tinh Linh	
 		Sủng Thú
 			Bản Mệnh
-				Thuỷ Nguyên Tinh Linh
-				Tinh Không Giới Long
-				Trấn Thần Huyền Quy
-				Vĩnh Hằng Linh Thụ
-				Vong Hồn Quân Chủ
-					Tên: Vong Cốt
-				Cơ Giới Chung Nguyên
 				Lộc 
 				Titan
 				Độc Giác Thiên Mã
 				Khuynh Thế Yêu Phi
-				Hoạ Thế Vô Tướng Thú
 				Thập Thủ Huyền Không Xà
-			Chiến Đấu
-				Phượng Hoàng
-			Công Năng
-				Vân Vũ Đế Hạc
 		Lãnh Địa
 			Bản Mệnh
 				Lĩnh Chủ Chi Tâm
@@ -336,10 +318,7 @@ World Build
 			Thập Giai
 			Siêu Cấp Thuật Thức
 			Đặc Thù Thuật Thức
-				Trưởng Thành Thuật Thức
-					Ma Pháp Chi Hoàn
-					Thánh Nghiệp - Luân Kính
-					Thánh Lễ - Cực Quang		
+				Trưởng Thành Thuật Thức		
 			Chú Thuật
 				<Vô Hạ Hạn>
 					<Lãnh Địa - Vô Lượng Không Trung>
@@ -353,10 +332,6 @@ World Build
 		Creation Skills
 			Sinraban-shō - All Of The Numberless Things In Existence
 				Akashic Records - Book Of Universe
-				Thần Trí Hạch
-				Thánh Tâm Diễn Linh
-				Tâm Niệm Chiến Thể
-				Thời Không Chi Môn
 		Genesis Skills
 		Transcendent Skills
 		Ultimate Skills
